@@ -15,10 +15,9 @@ Kadar uygulamasının bilgileri nasıl kullandığını açıklar.
 Hesap Ne Kadar uygulaması, kullanıcılarından hesap oluşturmasını istemez ve
 Berkco App Studio tarafından kişisel veri toplanmaz.
 
-Uygulamada kullanılan bilgiler, yalnızca uygulamanın temel işlevlerini
-yerine getirmek amacıyla cihaz üzerinde işlenir. Bu bilgiler cihazınızdan
-dışarı aktarılmaz; Berkco App Studio tarafından erişilmez, toplanmaz ve
-herhangi bir sunucuda saklanmaz.
+Uygulama, temel işlevleri için kullanılan bilgileri cihaz üzerinde işler.
+Fiş görüntüleri, okunan metinler ve hesap bilgileri Berkco App Studio
+sunucularına gönderilmez.
 
 ## Kamera ve Fiş Görüntüleri
 
@@ -55,9 +54,9 @@ paylaşım tamamen sizin kontrolünüzdedir.
 
 ## Veri Güvenliği
 
-Uygulamada oluşturulan ve kullanılan hesap bilgileri cihazınızda tutulur.
-
-Berkco App Studio bu verilere uzaktan erişemez. Kullanıcı verileri Berkco
+Uygulamada oluşturulan ve kullanılan hesap bilgileri cihazınızda tutulur ve
+Berkco App Studio tarafından uzaktan erişilmez veya sunucularımızda
+saklanmaz. Kullanıcı verileri Berkco
 App Studio tarafından üçüncü taraflara satılmaz, kiralanmaz veya
 paylaşılmaz.
 
@@ -69,8 +68,10 @@ sürüm internet, konum, rehber, mikrofon veya depolama izni kullanmaz.
 ## İnternet ve Üçüncü Taraf Hizmetleri
 
 Uygulamanın mevcut sürümü reklam, kullanıcı analitiği veya kullanıcı takibi
-amacıyla herhangi bir hizmet kullanmaz. Google ML Kit'in teknik teşhis
-bilgisi gönderme özelliği uygulamada kapatılmıştır.
+amacıyla herhangi bir hizmet kullanmaz. Metin tanıma işlemleri cihaz
+üzerinde çalışan Google ML Kit teknolojisi kullanılarak gerçekleştirilir.
+Fiş görüntüleri ve tanınan metinler Berkco App Studio sunucularına
+gönderilmez.
 
 Fiş görüntüleri, tanınan metinler ve hesap bilgileri Berkco App Studio
 sunucularına aktarılmaz.
@@ -137,10 +138,9 @@ This Privacy Policy explains how Hesap Ne Kadar, developed by Berkco App
 Studio, handles information.
 
 **Data collection and use.** The app does not ask you to create an account,
-and Berkco App Studio does not collect personal data. Information used in
-the app is processed on your device only to provide its core features. It
-is not transferred off your device, and it is not accessed, collected or
-stored on any server by Berkco App Studio.
+and Berkco App Studio does not collect personal data. The app processes the information
+it needs for its core features on your device. Receipt images, recognised
+text and bill details are not sent to Berkco App Studio's servers.
 
 **Camera and receipt images.** The app uses your camera to read item names
 and prices from receipts; the camera is on only while a receipt is being
@@ -159,16 +159,18 @@ the operating system when you uninstall the app.
 **Sharing.** When you choose to share a bill summary, the text goes only to
 the app you pick from your device's share menu.
 
-**Data security.** Berkco App Studio cannot access this information
-remotely and does not sell, rent or share user data with third parties.
+**Data security.** Bill details are kept on your device and are not
+accessed remotely by Berkco App Studio or stored on our servers. Berkco App
+Studio does not sell, rent or share user data with third parties.
 
 **Permissions.** The app uses only the camera permission, to read
 receipts. This version does not use internet, location, contacts,
 microphone or storage permissions.
 
 **Internet and third-party services.** This version uses no advertising,
-analytics or tracking services, and Google ML Kit's diagnostics reporting
-is turned off. The rating prompt is shown by Google Play and is subject to
+analytics or tracking services. Text recognition uses Google ML Kit
+running on your device; receipt images and recognised text are not sent to
+Berkco App Studio's servers. The rating prompt is shown by Google Play and is subject to
 Google's privacy policy. If advertising, analytics or other internet-based
 services are added in the future, this policy will be updated accordingly.
 
