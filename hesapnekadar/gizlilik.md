@@ -7,87 +7,125 @@ permalink: /hesapnekadar/gizlilik/
 
 _Son güncelleme: 28 Eylül 2026_
 
-Hesap Ne Kadar, bir restoran ya da market fişini telefonunun kamerasıyla okuyup
-hesabı kişiler arasında bölmene yardım eden bir uygulamadır. Bu metin,
-uygulamanın hangi verileri nasıl kullandığını açıklar.
+Bu Gizlilik Politikası, Berkco App Studio tarafından geliştirilen Hesap Ne
+Kadar uygulamasının bilgileri nasıl kullandığını açıklar.
 
-## Kısaca
+## Veri Toplama ve Kullanım
 
-- Uygulama **hiçbir veri toplamaz.** İnternet izni yoktur; tamamen
-  çevrimdışı çalışır ve telefonundan hiçbir bilgi dışarı gönderilmez.
-- Fişler **yalnızca telefonunda** okunur. Fiş fotoğrafın, okunan ürünler,
-  tutarlar ve girdiğin isimler telefonunda kalır.
-- Hesap oluşturma yoktur; seni tanımlayan bir bilgi istemeyiz.
+Hesap Ne Kadar uygulaması, kullanıcılarından hesap oluşturmasını istemez ve
+Berkco App Studio tarafından kişisel veri toplanmaz.
 
-## Kamera
+Uygulamada kullanılan bilgiler, yalnızca uygulamanın temel işlevlerini
+yerine getirmek amacıyla cihaz üzerinde işlenir. Bu bilgiler cihazınızdan
+dışarı aktarılmaz; Berkco App Studio tarafından erişilmez, toplanmaz ve
+herhangi bir sunucuda saklanmaz.
 
-Uygulama, yalnızca sen "Fişi Tara" dediğinde fişi okumak için kamerayı
-kullanır. Kamera görüntüsü, uygulamanın içinde gelen ve telefonda çalışan
-bir metin tanıma modeliyle (Google ML Kit, cihaz içi sürüm) okunur.
-Görüntüler ve okunan metin Google'a ya da başka bir sunucuya gönderilmez.
+## Kamera ve Fiş Görüntüleri
 
-## Fiş fotoğrafları ve okunan bilgiler
+Uygulama, fiş üzerindeki ürün ve fiyat bilgilerini okuyabilmek amacıyla
+cihazın kamerasını kullanır. Kamera yalnızca fiş okunurken açılır.
 
-- Deklanşöre bastığında çekilen fotoğraf, uygulamanın geçici klasörüne
-  kaydedilir ve **okunduktan hemen sonra silinir.** Galerine kaydedilmez.
-- Okunan ürünler, tutarlar ve ödeme bilgileri (girdiysen kişilerin adları
-  dahil), uygulama kapanırsa hesaba devam edebilmen için yalnızca
-  telefonunda, uygulamanın kendi klasöründe saklanır. Hesap bittiğinde,
-  yeni fiş taradığında ya da ana ekranda sildiğinde silinir. Uygulamayı
-  kaldırdığında da silinir. Bu bilgiler hiçbir yere gönderilmez.
-- "Özeti paylaş" ya da "WhatsApp'tan gönder" dediğinde, özet metni yalnızca
-  senin seçtiğin uygulamaya, telefonun paylaşım menüsüyle iletilir.
+Fiş görüntüleri ve görüntülerden algılanan metinler yalnızca cihaz üzerinde
+işlenir. Bu içerikler Berkco App Studio'ya veya başka bir harici sunucuya
+gönderilmez. Deklanşörle çekilen fotoğraf okunduktan sonra silinir ve
+galerinize kaydedilmez.
 
-## Teknik teşhis bilgileri
+Metin tanıma işlemleri, uygulamanın içinde yer alan ve cihaz üzerinde
+çalışan Google ML Kit teknolojisiyle gerçekleştirilir.
 
-Uygulamada analiz, hata raporlama ya da kullanım ölçümü aracı yoktur. Fiş
-okuma bileşeninin (Google ML Kit) Google'a teknik teşhis bilgisi gönderme
-özelliği uygulamada kapatılmıştır ve uygulamanın internet izni olmadığı için
-bu bilgiler gönderilemez.
+## Yerel Veri Saklama
+
+Bölünmekte olan hesaba ait bilgiler (ürünler, tutarlar, ödemeler ve
+isterseniz girdiğiniz isimler), uygulama kapansa bile kaldığınız yerden
+devam edebilmeniz için yalnızca cihazınızdaki, uygulamaya özel yerel
+depolama alanında saklanır.
+
+Bu bilgiler Berkco App Studio'ya veya herhangi bir harici sunucuya
+gönderilmez.
+
+Hesap tamamlandığında, yeni bir fiş okuttuğunuzda ya da hesabı ana ekrandan
+sildiğinizde bu bilgiler kaldırılır. Uygulamanın kaldırılması durumunda
+yerel depolama alanındaki veriler de işletim sistemi tarafından silinir.
+
+## Paylaşım
+
+Hesap özetini paylaşmayı seçtiğinizde, özet metni yalnızca cihazınızın
+paylaşım menüsünden seçtiğiniz uygulamaya (örneğin WhatsApp) iletilir. Bu
+paylaşım tamamen sizin kontrolünüzdedir.
+
+## Veri Güvenliği
+
+Uygulamada oluşturulan ve kullanılan hesap bilgileri cihazınızda tutulur.
+
+Berkco App Studio bu verilere uzaktan erişemez. Kullanıcı verileri Berkco
+App Studio tarafından üçüncü taraflara satılmaz, kiralanmaz veya
+paylaşılmaz.
 
 ## İzinler
 
-| İzin | Neden |
-|---|---|
-| Kamera | Fişi okumak için |
+Uygulama yalnızca fişi okuyabilmek için kamera iznini kullanır. Mevcut
+sürüm internet, konum, rehber, mikrofon veya depolama izni kullanmaz.
 
-Uygulama internet, konum, rehber, mikrofon veya depolama izni istemez.
+## İnternet ve Üçüncü Taraf Hizmetleri
+
+Uygulamanın mevcut sürümü reklam, kullanıcı analitiği veya kullanıcı takibi
+amacıyla herhangi bir hizmet kullanmaz. Google ML Kit'in teknik teşhis
+bilgisi gönderme özelliği uygulamada kapatılmıştır.
+
+Fiş görüntüleri, tanınan metinler ve hesap bilgileri Berkco App Studio
+sunucularına aktarılmaz.
+
+Uygulamayı değerlendirmeniz için gösterilen pencere Google Play tarafından
+sağlanır ve Google'ın kendi gizlilik politikasına tabidir.
+
+Uygulamanın gelecekte reklam, analiz veya internet tabanlı başka hizmetler
+kullanmaya başlaması durumunda bu Gizlilik Politikası ilgili değişiklikleri
+yansıtacak şekilde güncellenecektir.
 
 ## Reklamlar
 
-Uygulamanın bu sürümünde reklam yoktur. İleride reklam eklenirse bu politika
-güncellenir ve reklam sağlayıcının hangi verileri kullandığı burada
-açıklanır; gerekli olduğu yerlerde onayın istenir.
+Uygulamanın mevcut sürümünde reklam gösterilmemektedir.
 
-## Çocuklar
+İleride reklam hizmetleri eklenmesi durumunda bu Gizlilik Politikası ve
+Google Play Veri Güvenliği beyanları kullanılan hizmetlere uygun şekilde
+güncellenecek, gerekli durumlarda onayınız istenecektir.
 
-Uygulama çocuklara yönelik değildir.
+## Çocukların Gizliliği
 
-## KVKK kapsamındaki hakların
+Uygulama kullanıcılarından kişisel bilgi talep etmez. Berkco App Studio
+bilerek çocuklara ait kişisel verileri toplamaz veya saklamaz.
 
-Fişlerin, okunan bilgiler ve girdiğin isimler yalnızca senin cihazında, senin
-kontrolünde kalır; uygulama geliştiricisi bunlara erişemez. Uygulama
-üzerinden geliştiriciye hiçbir kişisel veri ulaşmaz.
+## Bizimle İletişime Geçtiğinizde
 
-**Bize e-posta gönderirsen:** E-posta adresin ve yazdıkların yalnızca
-sorunu yanıtlamak için kullanılır, kimseyle paylaşılmaz ve konu
-kapandıktan sonra en geç bir yıl içinde silinir. E-postalar Google'ın Gmail
-hizmetiyle alındığı için Google'ın sunucularında (yurt dışında) saklanır;
-bize yazmayı seçerek buna açık rıza vermiş olursun. Veri sorumlusu,
-uygulamanın geliştiricisi Berkco App Studio'dur.
+Bize e-posta gönderdiğinizde, e-posta adresiniz ve mesajınız yalnızca
+sorunuzu yanıtlamak amacıyla kullanılır, üçüncü kişilerle paylaşılmaz ve
+konu sonuçlandıktan sonra en geç bir yıl içinde silinir. E-postalar Google'ın
+Gmail hizmeti aracılığıyla alındığından Google'ın sunucularında saklanır.
 
-6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 11. maddesindeki
-hakların (verinin işlenip işlenmediğini öğrenme, silinmesini isteme gibi)
-için aşağıdaki adrese yazabilirsin.
+## Kişisel Verilerin Korunması Kanunu (KVKK)
 
-## Değişiklikler
+Uygulama üzerinden Berkco App Studio'ya kişisel veri ulaşmaz. Bizimle
+e-posta yoluyla iletişime geçmeniz durumunda veri sorumlusu Berkco App
+Studio'dur. 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 11.
+maddesinde yer alan haklarınızla (verilerinizin işlenip işlenmediğini
+öğrenme, silinmesini talep etme gibi) ilgili taleplerinizi aşağıdaki
+adrese iletebilirsiniz.
 
-Bu politika değişirse güncel hali bu sayfada yayımlanır ve yukarıdaki tarih
-güncellenir.
+## Gizlilik Politikasındaki Değişiklikler
+
+Bu Gizlilik Politikası, uygulamanın özelliklerinde veya kullanılan
+teknolojilerde değişiklik yapılması durumunda güncellenebilir.
+
+Güncel Gizlilik Politikası her zaman bu sayfada yayımlanacak ve yukarıdaki
+tarih güncellenecektir.
 
 ## İletişim
 
-berkcoappstudio@gmail.com
+Bu Gizlilik Politikası hakkında sorularınız için bizimle iletişime
+geçebilirsiniz:
+
+Berkco App Studio
+E-posta: berkcoappstudio@gmail.com
 
 ---
 
@@ -95,45 +133,61 @@ berkcoappstudio@gmail.com
 
 _Last updated: 28 September 2026_
 
-Hesap Ne Kadar reads a restaurant or grocery receipt with your phone's camera
-and helps you split the bill between people.
+This Privacy Policy explains how Hesap Ne Kadar, developed by Berkco App
+Studio, handles information.
 
-- The app **collects no data.** It has no internet permission, works fully
-  offline and nothing leaves your phone.
-- Receipts are read **only on your phone.** Your receipt photo, the items
-  and amounts read and the names you enter stay on it.
-- There are no accounts; we never ask who you are.
+**Data collection and use.** The app does not ask you to create an account,
+and Berkco App Studio does not collect personal data. Information used in
+the app is processed on your device only to provide its core features. It
+is not transferred off your device, and it is not accessed, collected or
+stored on any server by Berkco App Studio.
 
-**Camera.** Used only when you scan a receipt. Images are read by an
-on-device text recognition model (Google ML Kit, bundled with the app).
-Images and the text read are not sent to Google or any other server.
+**Camera and receipt images.** The app uses your camera to read item names
+and prices from receipts; the camera is on only while a receipt is being
+read. Receipt images and the text recognised from them are processed on
+your device and are not sent to Berkco App Studio or any other server. A
+photo taken with the shutter is deleted after reading and is not saved to
+your gallery. Text recognition uses Google ML Kit, which is bundled with
+the app and runs on your device.
 
-**Photos and read data.** A photo taken with the shutter is stored in the
-app's temporary folder and **deleted immediately after reading**; it is never
-saved to your gallery.
+**Local storage.** Details of the bill in progress (items, amounts,
+payments and any names you enter) are kept in the app's private storage on
+your device, so you can continue after the app closes. They are removed
+when the bill is settled, replaced or deleted from the home screen, and by
+the operating system when you uninstall the app.
 
-**Bill in progress.** Items, prices and payments (including names you enter)
-are kept only on your phone, in the app's private folder, so you can continue
-after the app closes. They are deleted when the bill is settled, replaced or
-discarded, or when you uninstall the app, and never sent anywhere. "Share summary" hands the text only to
-the app you pick in the system share sheet.
+**Sharing.** When you choose to share a bill summary, the text goes only to
+the app you pick from your device's share menu.
 
-**Diagnostics.** The app contains no analytics, crash reporting or usage
-tracking. ML Kit's option to send technical diagnostics to Google is turned
-off, and without internet access nothing could be sent anyway.
+**Data security.** Berkco App Studio cannot access this information
+remotely and does not sell, rent or share user data with third parties.
 
-**Permissions.** Camera only, to read receipts. No internet, location,
-contacts, microphone or storage access.
+**Permissions.** The app uses only the camera permission, to read
+receipts. This version does not use internet, location, contacts,
+microphone or storage permissions.
 
-**Ads.** This version shows no ads. If ads are added, this policy will be
-updated to explain what the ad provider uses, and your consent will be asked
-where required.
+**Internet and third-party services.** This version uses no advertising,
+analytics or tracking services, and Google ML Kit's diagnostics reporting
+is turned off. The rating prompt is shown by Google Play and is subject to
+Google's privacy policy. If advertising, analytics or other internet-based
+services are added in the future, this policy will be updated accordingly.
 
-**Children.** The app is not directed at children.
+**Ads.** This version shows no ads. If ads are added, this policy and the
+Google Play Data safety declaration will be updated, and your consent will
+be asked where required.
 
-**If you email us.** Your address and message are used only to answer you,
-never shared, and deleted within a year after the matter is closed. Email is
-received through Google's Gmail. The data controller is Berkco App Studio,
-the developer of the app.
+**Children's privacy.** The app does not ask users for personal
+information. Berkco App Studio does not knowingly collect or store personal
+data from children.
 
-**Contact.** berkcoappstudio@gmail.com
+**If you contact us.** When you email us, your address and message are used
+only to answer you, are not shared with third parties, and are deleted
+within a year after the matter is closed. Email is received through
+Google's Gmail service. For such messages, Berkco App Studio is the data
+controller.
+
+**Changes.** This policy may be updated when the app's features or the
+technologies it uses change. The current version will always be published
+on this page with its date updated.
+
+**Contact.** Berkco App Studio — berkcoappstudio@gmail.com
