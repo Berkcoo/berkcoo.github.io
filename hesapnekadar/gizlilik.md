@@ -66,10 +66,19 @@ Uygulama çocuklara yönelik değildir.
 ## KVKK kapsamındaki hakların
 
 Fişlerin, okunan bilgiler ve girdiğin isimler yalnızca senin cihazında, senin
-kontrolünde kalır; uygulama geliştiricisi bunlara erişemez ve kişisel veri
-işlemez. 6698 sayılı
-Kişisel Verilerin Korunması Kanunu kapsamındaki sorularını aşağıdaki adrese
-iletebilirsin.
+kontrolünde kalır; uygulama geliştiricisi bunlara erişemez. Uygulama
+üzerinden geliştiriciye hiçbir kişisel veri ulaşmaz.
+
+**Bize e-posta gönderirsen:** E-posta adresin ve yazdıkların yalnızca
+sorunu yanıtlamak için kullanılır, kimseyle paylaşılmaz ve konu
+kapandıktan sonra en geç bir yıl içinde silinir. E-postalar Google'ın Gmail
+hizmetiyle alındığı için Google'ın sunucularında (yurt dışında) saklanır;
+bize yazmayı seçerek buna açık rıza vermiş olursun. Veri sorumlusu,
+uygulamanın geliştiricisi Berkco App Studio'dur.
+
+6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 11. maddesindeki
+hakların (verinin işlenip işlenmediğini öğrenme, silinmesini isteme gibi)
+için aşağıdaki adrese yazabilirsin.
 
 ## Değişiklikler
 
@@ -121,5 +130,10 @@ updated to explain what the ad provider uses, and your consent will be asked
 where required.
 
 **Children.** The app is not directed at children.
+
+**If you email us.** Your address and message are used only to answer you,
+never shared, and deleted within a year after the matter is closed. Email is
+received through Google's Gmail. The data controller is Berkco App Studio,
+the developer of the app.
 
 **Contact.** berkcoappstudio@gmail.com
