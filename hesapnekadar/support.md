@@ -34,9 +34,7 @@ politikasındadır.
 
 **Ortak Hesaplar nedir, ücretli mi?** Ev, tatil ya da arkadaş grubunda kim ne
 ödedi takip eder ve en az ödemeyle hesaplaşmanızı sağlar. Birkaç ücretsiz
-kullanım hakkı vardır (şu an üç). Ücretsiz haklar bittikten sonra devam etmek
-için tek seferlik bir satın alma (Pro) sunulacaktır; satın alma mağaza
-üzerinden yapılır. Pro'da reklam gösterilmez.
+kullanım hakkı vardır (şu an üç). Ücretsiz haklar bittikten sonra devam etmek için tek seferlik bir satın alma (Pro) sunulur (abonelik değildir); satın alma mağaza üzerinden yapılır ve fiyat mağazada görünür. Pro, Ortak Hesaplar'ı sınırsız kullanmayı ve reklamsız kullanımı içerir. Uygulamayı yeniden kurduysanız Ortak Hesaplar sayfasındaki "Satın alımı geri yükle" ile satın alımınızı geri getirebilirsiniz.
 
 **Reklamlar nerede çıkar?** Uygulamanın 1.1.0 ve sonraki sürümlerinde reklam
 vardır: yalnızca ana ekranın altında ve hesap bittikten sonra çıkan ekranın
@@ -85,9 +83,7 @@ a new phone. Details are in the privacy policy.
 
 **What are Shared Accounts, and are they paid?** They track who paid what for
 a home, a trip or a group of friends and help you settle up with the fewest
-payments. There are a few free uses (currently three). After the free uses are
-spent, a one-time purchase (Pro) will be offered to continue; the purchase is
-made through the store. Pro shows no ads.
+payments. There are a few free uses (currently three). After the free uses are spent, a one-time purchase (Pro, not a subscription) is offered to continue; the purchase is made through the store and the price is shown there. Pro includes unlimited Shared Accounts and no ads. If you reinstalled the app, "Restore purchase" on the Shared Accounts page brings your purchase back.
 
 **Where do ads appear?** Versions 1.1.0 and later show ads: only at the bottom
 of the home screen and at the bottom of the screen shown after a bill is

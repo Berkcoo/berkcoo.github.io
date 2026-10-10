@@ -86,9 +86,12 @@ saklanır. Kurlar bilgi amaçlıdır; bankanızın uyguladığı kur farklı ola
 
 Ortak Hesaplar'ı ücretsiz deneyebilirsiniz. Ücretsiz haklar bittikten sonra
 yeni hesap ve harcama eklemeye devam etmek için tek seferlik bir satın alma
-(Pro) sunulacaktır. Satın alma Google Play (Android) veya App Store (iOS)
-üzerinden yapılır; ödeme bilgileriniz bu mağazalar tarafından işlenir ve
-Berkco App Studio'ya ulaşmaz. Pro'da reklam gösterilmez.
+(Pro) sunulur (abonelik değildir). Pro, Ortak Hesaplar'ı sınırsız kullanmayı
+ve reklamsız kullanımı içerir. Satın alma Google Play (Android) veya App Store
+(iOS) üzerinden yapılır; fiyat mağazada gösterilir, ödeme bilgileriniz bu
+mağazalar tarafından işlenir ve Berkco App Studio'ya ulaşmaz. Uygulama,
+satın alımınızı mağazadan sorgular (ör. yeniden kurulumdan sonra "Satın alımı
+geri yükle"); bunun için hesap açmanız gerekmez.
 
 ## Paylaşım
 
@@ -102,6 +105,8 @@ sonra metin, seçtiğiniz uygulamanın kendi gizlilik koşullarına tabidir.
 - **İnternet:** kur çeviricisi için kurları indirmek ve reklamları göstermek
   için (Android'de internet ve ağ durumu izinleri). Fişleriniz, fotoğraflarınız
   ve hesap bilgileriniz bu bağlantıyla gönderilmez.
+- **Satın alma:** Android'de Google Play faturalandırma izni (Pro'yu satın
+  almak için).
 - **Reklam kimliği:** Android'de Google reklam kimliği; iOS'ta reklam
   tanımlayıcısı (IDFA), yalnızca iOS'un "İzleme" izin penceresinde izin
   verirseniz kullanılır. Reddederseniz uygulama çalışmaya devam eder.
@@ -242,10 +247,13 @@ connection. Downloaded rates are kept on your device. Rates are for
 information only; your bank may apply a different rate.
 
 **Purchase (Shared Accounts).** You can try Shared Accounts for free. After
-the free uses are spent, a one-time purchase (Pro) will be offered to keep
-adding new accounts and expenses. The purchase is made through Google Play
-(Android) or the App Store (iOS); your payment details are processed by those
-stores and do not reach Berkco App Studio. Pro shows no ads.
+the free uses are spent, a one-time purchase (Pro, not a subscription) is
+offered to keep adding new accounts and expenses. Pro includes unlimited Shared
+Accounts and no ads. The purchase is made through Google Play (Android) or the
+App Store (iOS); the price is shown in the store, and your payment details are
+processed by those stores and do not reach Berkco App Studio. The app asks the
+store whether you own Pro (for example "Restore purchase" after reinstalling);
+no account is needed for that.
 
 **Sharing.** When you choose to share a bill summary, the text goes to the
 app you pick from your device's share menu and is then subject to that
@@ -257,6 +265,8 @@ app's own terms.
 - **Internet:** to download exchange rates and to show ads (on Android, the
   internet and network-state permissions). Your receipts, photos and account
   details are not sent over that connection.
+- **Purchases:** on Android, the Google Play billing permission (to buy
+  Pro).
 - **Advertising ID:** the Google advertising ID on Android; the advertising
   identifier (IDFA) on iOS, only if you allow it in iOS's "Tracking" prompt. If
   you decline, the app keeps working.
