@@ -1,6 +1,6 @@
 ---
 title: Hesap Ne Kadar — Destek / Support
-permalink: /hesapnekadar/destek/
+permalink: /hesapnekadar/support/
 ---
 
 # Hesap Ne Kadar — Destek
@@ -50,7 +50,7 @@ olabilir.
 
 ## Gizlilik
 
-Gizlilik Politikası: https://berkcoo.github.io/hesapnekadar/gizlilik/
+Gizlilik Politikası: https://berkcoo.github.io/hesapnekadar/privacy/
 
 ---
 
@@ -101,4 +101,4 @@ your bank's rate may differ.
 
 ## Privacy
 
-Privacy Policy: https://berkcoo.github.io/hesapnekadar/gizlilik/
+Privacy Policy: https://berkcoo.github.io/hesapnekadar/privacy/

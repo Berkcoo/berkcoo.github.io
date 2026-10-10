@@ -1,6 +1,6 @@
 ---
 title: Hesap Ne Kadar — Gizlilik Politikası / Privacy Policy
-permalink: /hesapnekadar/gizlilik/
+permalink: /hesapnekadar/privacy/
 ---
 
 # Hesap Ne Kadar — Gizlilik Politikası
