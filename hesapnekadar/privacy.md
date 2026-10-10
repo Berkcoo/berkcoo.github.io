@@ -114,11 +114,11 @@ sonra metin, seçtiğiniz uygulamanın kendi gizlilik koşullarına tabidir.
 ## Reklamlar ve Üçüncü Taraf Hizmetleri
 
 **Hesap Ne Kadar'ın yayın planında reklamlar vardır.** Uygulamanın 1.1.0 ve
-sonraki sürümleri Google AdMob aracılığıyla reklam gösterir. Reklam yalnızca
-ana ekranın altında ve hesap bittikten sonra çıkan ekranın altında yer alır.
-Fiş okuma, hesap bölme, Ortak Hesaplar ve kur çevirici ekranlarında reklam
-gösterilmez. Pro'da reklam gösterilmez. Bu sürümlerden önceki sürümlerde reklam
-bulunmaz.
+sonraki sürümleri Google AdMob aracılığıyla reklam gösterir. Reklam, bir
+hesabın tüm ödemeleri tamamlandığında tam ekran (geçiş) reklamı olarak ve en
+çok iki dakikada bir kez gösterilir; reklam uygulamayı açarken, fiş okurken,
+hesap bölerken, Ortak Hesaplar'da veya kur çeviricide çıkmaz. Pro'da reklam
+gösterilmez. Bu sürümlerden önceki sürümlerde reklam bulunmaz.
 
 Bir reklam gösterildiğinde Google ve reklam ortakları; reklam kimliği,
 yaklaşık konum (IP adresinden), cihaz ve uygulama etkileşim bilgileri gibi
@@ -272,11 +272,11 @@ app's own terms.
   you decline, the app keeps working.
 
 **Ads and third-party services.** **Ads are part of Hesap Ne Kadar's release
-plan.** Versions 1.1.0 and later show ads through Google AdMob. Ads appear only
-at the bottom of the home screen and at the bottom of the screen shown after a
-bill is finished. No ads are shown on the receipt-reading, bill-splitting,
-Shared Accounts or currency converter screens. Pro shows no ads. Earlier
-versions contain no ads.
+plan.** Versions 1.1.0 and later show ads through Google AdMob. An ad appears as a
+full-screen (interstitial) ad when all payments of a bill are completed, at most
+once every two minutes; it does not appear when the app opens, while you scan a
+receipt or split a bill, or in Shared Accounts or the currency converter. Pro
+shows no ads. Earlier versions contain no ads.
 
 When an ad is shown, Google and its ad partners may process data such as the
 advertising ID, approximate location (from the IP address), and device and app

@@ -37,9 +37,7 @@ politikasındadır.
 kullanım hakkı vardır (şu an üç). Ücretsiz haklar bittikten sonra devam etmek için tek seferlik bir satın alma (Pro) sunulur (abonelik değildir); satın alma mağaza üzerinden yapılır ve fiyat mağazada görünür. Pro, Ortak Hesaplar'ı sınırsız kullanmayı ve reklamsız kullanımı içerir. Uygulamayı yeniden kurduysanız Ortak Hesaplar sayfasındaki "Satın alımı geri yükle" ile satın alımınızı geri getirebilirsiniz.
 
 **Reklamlar nerede çıkar?** Uygulamanın 1.1.0 ve sonraki sürümlerinde reklam
-vardır: yalnızca ana ekranın altında ve hesap bittikten sonra çıkan ekranın
-altında. Fiş okuma, hesap bölme, Ortak Hesaplar ve kur çevirici ekranlarında
-reklam gösterilmez. Avrupa'daki kullanıcılara onay formu gösterilir; tercihi
+vardır: bir hesabın tüm ödemeleri tamamlandığında tam ekran bir reklam çıkar (en çok iki dakikada bir). Uygulamayı açarken, fiş okurken, hesap bölerken, Ortak Hesaplar'da ve kur çeviricide reklam gösterilmez. Avrupa'daki kullanıcılara onay formu gösterilir; tercihi
 Ayarlar > Reklam gizliliği'nden değiştirebilirsiniz.
 
 **Kur çevirici kurları nereden alıyor?** Avrupa Merkez Bankası referans
@@ -85,10 +83,7 @@ a new phone. Details are in the privacy policy.
 a home, a trip or a group of friends and help you settle up with the fewest
 payments. There are a few free uses (currently three). After the free uses are spent, a one-time purchase (Pro, not a subscription) is offered to continue; the purchase is made through the store and the price is shown there. Pro includes unlimited Shared Accounts and no ads. If you reinstalled the app, "Restore purchase" on the Shared Accounts page brings your purchase back.
 
-**Where do ads appear?** Versions 1.1.0 and later show ads: only at the bottom
-of the home screen and at the bottom of the screen shown after a bill is
-finished. No ads on the receipt-reading, bill-splitting, Shared Accounts or
-currency converter screens. Users in Europe are shown a consent form; you can
+**Where do ads appear?** Versions 1.1.0 and later show ads: a full-screen ad appears when all payments of a bill are completed (at most once every two minutes). No ads when the app opens, while scanning a receipt or splitting a bill, or in Shared Accounts or the currency converter. Users in Europe are shown a consent form; you can
 change the choice under Settings > Ad privacy.
 
 **Where does the currency converter get its rates?** From the European Central
