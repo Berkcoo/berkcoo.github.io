@@ -7,8 +7,7 @@ title: Berkco App Studio
 ## Uygulamalar
 
 - **Hesap Ne Kadar** — fişi okut, hesabı böl.
-  [Gizlilik politikası / Privacy policy](hesapnekadar/gizlilik/)
-- **Gloopath** — kaydır, boya, çöz.
-  [Gizlilik politikası / Privacy policy](gloopath/gizlilik/)
+  [Gizlilik politikası / Privacy policy](hesapnekadar/gizlilik/) ·
+  [Destek / Support](hesapnekadar/destek/)
 
 İletişim / Contact: berkcoappstudio@gmail.com
