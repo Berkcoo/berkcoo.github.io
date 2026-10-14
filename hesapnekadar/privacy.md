@@ -5,7 +5,7 @@ permalink: /hesapnekadar/privacy/
 
 # Hesap Ne Kadar — Gizlilik Politikası
 
-_Son güncelleme: 10 Ekim 2026_
+_Son güncelleme: 14 Ekim 2026_
 
 Bu Gizlilik Politikası, Berkco App Studio tarafından geliştirilen Hesap Ne
 Kadar uygulamasının bilgileri nasıl kullandığını açıklar. Uygulama **Google
@@ -33,7 +33,14 @@ cihazın kamerasını kullanır.
 
 Metin tanıma işlemleri cihaz üzerinde çalışan Google ML Kit teknolojisi
 kullanılarak gerçekleştirilir. Fiş görüntüleri ve tanınan metinler Berkco
-App Studio'ya gönderilmez.
+App Studio'ya gönderilmez. Android'de ML Kit'in Google'a teşhis verisi
+gönderen bileşeni devre dışı bırakılmıştır. iOS'ta ML Kit, Google'ın
+yayımladığı veri bildirimine göre cihaz ve uygulama bilgisi (cihaz modeli,
+işletim sistemi sürümü, uygulama kimliği ve sürümü), kuruluma özgü bir
+tanımlayıcı, performans ölçümleri ve hata kodları gibi teşhis ve kullanım
+analizi verilerini Google'a iletebilir; bu bildirimde fiş görüntüsü veya
+tanınan metin yer almaz. Bu veriler Google'ın kendi gizlilik politikasına
+tabidir ve Berkco App Studio'ya ulaşmaz.
 
 Fişi fotoğrafla okuttuğunuzda fotoğraf, uygulamanın geçici klasöründe
 tutulur ve okunduktan sonra silinir. Fotoğraflar galerinize kaydedilmez.
@@ -89,9 +96,16 @@ yeni hesap ve harcama eklemeye devam etmek için tek seferlik bir satın alma
 (Pro) sunulur (abonelik değildir). Pro, Ortak Hesaplar'ı sınırsız kullanmayı
 ve reklamsız kullanımı içerir. Satın alma Google Play (Android) veya App Store
 (iOS) üzerinden yapılır; fiyat mağazada gösterilir, ödeme bilgileriniz bu
-mağazalar tarafından işlenir ve Berkco App Studio'ya ulaşmaz. Uygulama,
-satın alımınızı mağazadan sorgular (ör. yeniden kurulumdan sonra "Satın alımı
-geri yükle"); bunun için hesap açmanız gerekmez.
+mağazalar tarafından işlenir ve Berkco App Studio'ya ulaşmaz.
+
+Pro, mağaza hesabınıza (Apple Kimliği veya Google hesabı) bağlıdır. Telefon
+değiştirdiğinizde ya da uygulamayı silip yeniden yüklediğinizde, aynı hesapla
+uygulama açıldığında satın alımınızı mağazadan kendiliğinden bulur ve bunun
+için giriş penceresi göstermez; bulamazsa Ayarlar'daki ya da Pro
+sayfasındaki "Satın alımı geri yükle" düğmesiyle mağazadan yeniden
+isteyebilirsiniz (iOS'ta Apple Kimliği şifreniz istenebilir). Bunun için hesap
+açmanız gerekmez. Uygulama, Pro'ya sahip olduğunuzu yalnızca cihazınızda
+saklar; bu bilgi Berkco App Studio'ya gönderilmez.
 
 ## Paylaşım
 
@@ -106,14 +120,21 @@ sonra metin, seçtiğiniz uygulamanın kendi gizlilik koşullarına tabidir.
   için (Android'de internet ve ağ durumu izinleri). Fişleriniz, fotoğraflarınız
   ve hesap bilgileriniz bu bağlantıyla gönderilmez.
 - **Satın alma:** Android'de Google Play faturalandırma izni (Pro'yu satın
-  almak için).
-- **Reklam kimliği:** Android'de Google reklam kimliği; iOS'ta reklam
-  tanımlayıcısı (IDFA), yalnızca iOS'un "İzleme" izin penceresinde izin
-  verirseniz kullanılır. Reddederseniz uygulama çalışmaya devam eder.
+  almak için). iOS'ta bunun için ayrı bir izin gerekmez.
+- **Reklam kimliği:** Android'de Google reklam kimliği (reklam kimliğini
+  istediğiniz zaman telefon ayarlarından sıfırlayabilir veya
+  kişiselleştirmeyi kapatabilirsiniz).
+- **İzleme (yalnızca iOS):** Uygulama, ilk reklam istenmeden önce Apple'ın
+  "İzleme" izin penceresini gösterir. İzin verirseniz reklam tanımlayıcınız
+  (IDFA) reklam ortakları tarafından reklamları kişiselleştirmek ve ölçmek
+  için kullanılabilir; Apple bunu "izleme" olarak tanımlar. Vermezseniz
+  reklamlar yine gösterilebilir ancak bu tanımlayıcı kullanılmaz ve uygulama
+  aynı şekilde çalışır. Tercihinizi iOS Ayarlar > Gizlilik ve Güvenlik >
+  İzleme bölümünden istediğiniz zaman değiştirebilirsiniz.
 
 ## Reklamlar ve Üçüncü Taraf Hizmetleri
 
-**Hesap Ne Kadar'ın yayın planında reklamlar vardır.** Uygulamanın 1.1.0 ve
+**Hesap Ne Kadar reklam içerir.** Uygulamanın 1.1.0 ve
 sonraki sürümleri Google AdMob aracılığıyla reklam gösterir. Reklam, bir
 hesabın tüm ödemeleri tamamlandığında tam ekran (geçiş) reklamı olarak ve en
 çok iki dakikada bir kez gösterilir; reklam uygulamayı açarken, fiş okurken,
@@ -124,7 +145,9 @@ Bir reklam gösterildiğinde Google ve reklam ortakları; reklam kimliği,
 yaklaşık konum (IP adresinden), cihaz ve uygulama etkileşim bilgileri gibi
 verileri reklamları sunmak, ölçmek ve kötüye kullanımı önlemek için kendi
 gizlilik politikalarına göre işleyebilir. Bu veriler Berkco App Studio'ya
-iletilmez. Bilgi için: https://policies.google.com/technologies/ads
+iletilmez. iOS'ta reklam ölçümü ayrıca Apple'ın SKAdNetwork sistemiyle
+yapılabilir; bu ölçüm kimliğinizi içermez. Bilgi için:
+https://policies.google.com/technologies/ads
 
 Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'deki kullanıcılara (ve
 gerekli olan diğer bölgelerde) Google'ın onay formu gösterilir; tercihinizi
@@ -132,8 +155,15 @@ Ayarlar > Reklam gizliliği bölümünden istediğiniz zaman değiştirebilirsin
 Telefonunuzun ayarlarından reklam kimliğinizi sıfırlayabilir veya
 kişiselleştirilmiş reklamları kapatabilirsiniz.
 
-**Reklamlı sürüm yayınlanmadan önce** bu Gizlilik Politikası, Google Play
-veri güvenliği beyanları ve Apple App Privacy beyanları güncellenecektir.
+Bu Gizlilik Politikası, Google Play veri güvenliği beyanları ve Apple App
+Privacy beyanları aynı şeyi söyler; biri değiştiğinde hepsi birlikte
+güncellenir.
+
+**Kullanılan üçüncü taraf hizmetler:** Google AdMob ve Google'ın onay formu
+(reklamlar), Google ML Kit (metin tanıma), Avrupa Merkez Bankası verisini
+sunan Frankfurter ve ExchangeRate-API (kurlar), Google Play ve Apple App Store
+(satın alma, güncelleme, değerlendirme). Her biri kendi gizlilik politikasına
+tabidir.
 
 Şu anda uygulamada kendi adımıza kullanıcı analitiği veya takibi için ayrı bir
 hizmet kullanılmamaktadır; bu durum değişirse bu politika güncellenir.
@@ -185,7 +215,7 @@ Destek sayfası: https://berkcoo.github.io/hesapnekadar/support/
 
 # Hesap Ne Kadar — Privacy Policy
 
-_Last updated: 10 October 2026_
+_Last updated: 14 October 2026_
 
 This Privacy Policy explains how Hesap Ne Kadar, developed by Berkco App
 Studio, handles information. The app is distributed through **Google Play
@@ -205,7 +235,14 @@ measurement in accordance with their own privacy policies (see "Ads" below).
 **Camera and receipt images.** The app uses your camera to read item names
 and prices from receipts. Text recognition uses Google ML Kit running on
 your device; receipt images and recognised text are not sent to Berkco App
-Studio. When you take a photo of a receipt, it is kept in the app's
+Studio. On Android the part of ML Kit that sends diagnostics to Google is
+switched off. On iOS, according to the data disclosure Google publishes, ML Kit
+may send diagnostics and usage-analytics data to Google, such as device and app
+information (device model, operating system version, app ID and version), an
+installation-specific identifier, performance metrics and error codes; that
+disclosure does not include receipt images or recognised text. This data is
+subject to Google's own privacy policy and does not reach Berkco App Studio.
+When you take a photo of a receipt, it is kept in the app's
 temporary folder and deleted after reading. Photos are not saved to your
 gallery. For receipts saved into shared accounts, no photo is kept; only the
 item names and amounts that were read.
@@ -251,9 +288,15 @@ the free uses are spent, a one-time purchase (Pro, not a subscription) is
 offered to keep adding new accounts and expenses. Pro includes unlimited Shared
 Accounts and no ads. The purchase is made through Google Play (Android) or the
 App Store (iOS); the price is shown in the store, and your payment details are
-processed by those stores and do not reach Berkco App Studio. The app asks the
-store whether you own Pro (for example "Restore purchase" after reinstalling);
-no account is needed for that.
+processed by those stores and do not reach Berkco App Studio.
+
+Pro is tied to your store account (Apple ID or Google account). When you change
+phones or delete and reinstall the app, the app finds your purchase from the
+store when it starts with the same account, and shows no sign-in screen for
+that; if it does not, you can ask the store again with "Restore purchase" in
+Settings or on the Pro page (on iOS your Apple ID password may be asked). No
+account of ours is needed. The app keeps the fact that you own Pro only on your
+device; it is not sent to Berkco App Studio.
 
 **Sharing.** When you choose to share a bill summary, the text goes to the
 app you pick from your device's share menu and is then subject to that
@@ -266,13 +309,18 @@ app's own terms.
   internet and network-state permissions). Your receipts, photos and account
   details are not sent over that connection.
 - **Purchases:** on Android, the Google Play billing permission (to buy
-  Pro).
-- **Advertising ID:** the Google advertising ID on Android; the advertising
-  identifier (IDFA) on iOS, only if you allow it in iOS's "Tracking" prompt. If
-  you decline, the app keeps working.
+  Pro). On iOS no separate permission is needed for this.
+- **Advertising ID:** the Google advertising ID on Android (you can reset it or
+  turn off personalisation in your phone's settings at any time).
+- **Tracking (iOS only):** before the first ad is requested, the app shows
+  Apple's "Tracking" prompt. If you allow it, your advertising identifier
+  (IDFA) may be used by ad partners to personalise and measure ads; Apple
+  defines this as "tracking". If you decline, ads may still be shown but that
+  identifier is not used, and the app works the same. You can change your choice
+  at any time in iOS Settings > Privacy & Security > Tracking.
 
-**Ads and third-party services.** **Ads are part of Hesap Ne Kadar's release
-plan.** Versions 1.1.0 and later show ads through Google AdMob. An ad appears as a
+**Ads and third-party services.** **Hesap Ne Kadar contains ads.** Versions
+1.1.0 and later show ads through Google AdMob. An ad appears as a
 full-screen (interstitial) ad when all payments of a bill are completed, at most
 once every two minutes; it does not appear when the app opens, while you scan a
 receipt or split a bill, or in Shared Accounts or the currency converter. Pro
@@ -282,16 +330,23 @@ When an ad is shown, Google and its ad partners may process data such as the
 advertising ID, approximate location (from the IP address), and device and app
 interaction information to deliver and measure ads and to prevent abuse, in
 accordance with their own privacy policies. This data is not passed to Berkco
-App Studio. See https://policies.google.com/technologies/ads
+App Studio. On iOS, ad measurement may also use Apple's SKAdNetwork system,
+which does not contain your identity. See
+https://policies.google.com/technologies/ads
 
 Users in the European Economic Area, the United Kingdom and Switzerland (and
 other regions where required) are shown Google's consent form; you can change
 your choice at any time under Settings > Ad privacy. You can also reset your
 advertising ID or turn off ad personalisation in your phone's settings.
 
-**Before a version with ads is released,** this Privacy Policy, the Google Play
-data safety declarations and the Apple App Privacy declarations will be
-updated.
+This Privacy Policy, the Google Play data safety declarations and the Apple
+App Privacy declarations say the same thing; when one changes, all of them are
+updated together.
+
+**Third-party services used:** Google AdMob and Google's consent form (ads),
+Google ML Kit (text recognition), Frankfurter, which serves European Central
+Bank data, and ExchangeRate-API (exchange rates), Google Play and the Apple App
+Store (purchase, updates, rating). Each is subject to its own privacy policy.
 
 At present the app does not use a separate analytics or user-tracking service
 of its own; if that changes, this policy will be updated.

@@ -34,7 +34,7 @@ politikasındadır.
 
 **Ortak Hesaplar nedir, ücretli mi?** Ev, tatil ya da arkadaş grubunda kim ne
 ödedi takip eder ve en az ödemeyle hesaplaşmanızı sağlar. Birkaç ücretsiz
-kullanım hakkı vardır (şu an üç). Ücretsiz haklar bittikten sonra devam etmek için tek seferlik bir satın alma (Pro) sunulur (abonelik değildir); satın alma mağaza üzerinden yapılır ve fiyat mağazada görünür. Pro, Ortak Hesaplar'ı sınırsız kullanmayı ve reklamsız kullanımı içerir. Uygulamayı yeniden kurduysanız Ortak Hesaplar sayfasındaki "Satın alımı geri yükle" ile satın alımınızı geri getirebilirsiniz.
+kullanım hakkı vardır (şu an üç). Ücretsiz haklar bittikten sonra devam etmek için tek seferlik bir satın alma (Pro) sunulur (abonelik değildir); satın alma mağaza üzerinden yapılır ve fiyat mağazada görünür. Pro, Ortak Hesaplar'ı sınırsız kullanmayı ve reklamsız kullanımı içerir. Pro, mağaza hesabınıza (Apple Kimliği veya Google hesabı) bağlıdır: telefon değiştirdiğinizde ya da uygulamayı silip yeniden yüklediğinizde, aynı hesapla uygulama açıldığında satın alımınızı kendiliğinden bulur. Bulamazsa Ayarlar'daki veya Pro sayfasındaki "Satın alımı geri yükle" ile yeniden isteyebilirsiniz (iOS'ta Apple Kimliği şifreniz istenebilir).
 
 **Reklamlar nerede çıkar?** Uygulamanın 1.1.0 ve sonraki sürümlerinde reklam
 vardır: bir hesabın tüm ödemeleri tamamlandığında tam ekran bir reklam çıkar (en çok iki dakikada bir). Uygulamayı açarken, fiş okurken, hesap bölerken, Ortak Hesaplar'da ve kur çeviricide reklam gösterilmez. Avrupa'daki kullanıcılara onay formu gösterilir; tercihi
@@ -81,7 +81,7 @@ a new phone. Details are in the privacy policy.
 
 **What are Shared Accounts, and are they paid?** They track who paid what for
 a home, a trip or a group of friends and help you settle up with the fewest
-payments. There are a few free uses (currently three). After the free uses are spent, a one-time purchase (Pro, not a subscription) is offered to continue; the purchase is made through the store and the price is shown there. Pro includes unlimited Shared Accounts and no ads. If you reinstalled the app, "Restore purchase" on the Shared Accounts page brings your purchase back.
+payments. There are a few free uses (currently three). After the free uses are spent, a one-time purchase (Pro, not a subscription) is offered to continue; the purchase is made through the store and the price is shown there. Pro includes unlimited Shared Accounts and no ads. Pro is tied to your store account (Apple ID or Google account): when you change phones or delete and reinstall the app, the app finds your purchase by itself when it starts with the same account. If it does not, ask again with "Restore purchase" in Settings or on the Pro page (on iOS your Apple ID password may be asked).
 
 **Where do ads appear?** Versions 1.1.0 and later show ads: a full-screen ad appears when all payments of a bill are completed (at most once every two minutes). No ads when the app opens, while scanning a receipt or splitting a bill, or in Shared Accounts or the currency converter. Users in Europe are shown a consent form; you can
 change the choice under Settings > Ad privacy.
