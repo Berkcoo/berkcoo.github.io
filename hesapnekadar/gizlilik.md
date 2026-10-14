@@ -124,6 +124,13 @@ sonra metin, seçtiğiniz uygulamanın kendi gizlilik koşullarına tabidir.
 - **Reklam kimliği:** Android'de Google reklam kimliği (reklam kimliğini
   istediğiniz zaman telefon ayarlarından sıfırlayabilir veya
   kişiselleştirmeyi kapatabilirsiniz).
+- **Reklam hizmetleri ve arka plan izinleri (Android):** Reklam SDK'sı ve
+  yardımcı kütüphaneleri, Android'in reklam hizmetleri izinlerini (reklam
+  kimliği, reklam ölçümü ve ilgi alanı konuları: ACCESS_ADSERVICES) ve arka
+  plan işleri için gerekli izinleri (WAKE_LOCK, FOREGROUND_SERVICE) uygulamaya
+  ekler. Bunlar reklamların sunulması, ölçülmesi ve arka plandaki teknik işler
+  içindir; Android'de bu bilgiler Google'ın reklam hizmetlerine tabidir ve
+  Berkco App Studio'ya ulaşmaz.
 - **İzleme (yalnızca iOS):** Uygulama, ilk reklam istenmeden önce Apple'ın
   "İzleme" izin penceresini gösterir. İzin verirseniz reklam tanımlayıcınız
   (IDFA) reklam ortakları tarafından reklamları kişiselleştirmek ve ölçmek
@@ -312,6 +319,13 @@ app's own terms.
   Pro). On iOS no separate permission is needed for this.
 - **Advertising ID:** the Google advertising ID on Android (you can reset it or
   turn off personalisation in your phone's settings at any time).
+- **Ad services and background permissions (Android):** the ads SDK and its
+  helper libraries add Android's ad-services permissions (advertising ID, ad
+  measurement and interest topics: ACCESS_ADSERVICES) and the permissions needed
+  for background work (WAKE_LOCK, FOREGROUND_SERVICE) to the app. They are for
+  serving and measuring ads and for technical background tasks; on Android this
+  information is subject to Google's ad services and does not reach Berkco App
+  Studio.
 - **Tracking (iOS only):** before the first ad is requested, the app shows
   Apple's "Tracking" prompt. If you allow it, your advertising identifier
   (IDFA) may be used by ad partners to personalise and measure ads; Apple
