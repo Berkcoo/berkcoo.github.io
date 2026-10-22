@@ -6,7 +6,7 @@ title: Berkco App Studio
 
 ## Uygulamalar
 
-- **Hesap Ne Kadar** — fişi okut, hesabı böl.
+- **[Hesap Ne Kadar](hesapnekadar/)** — fişi okut, hesabı böl.
   [Gizlilik politikası / Privacy policy](hesapnekadar/privacy/) ·
   [Destek / Support](hesapnekadar/support/)
 

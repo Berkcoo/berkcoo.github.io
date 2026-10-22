@@ -5,14 +5,12 @@ permalink: /hesapnekadar/privacy/
 
 # Hesap Ne Kadar — Gizlilik Politikası
 
-_Son güncelleme: 14 Ekim 2026_
+_Son güncelleme: 22 Ekim 2026_
 
 Bu Gizlilik Politikası, Berkco App Studio tarafından geliştirilen Hesap Ne
 Kadar uygulamasının bilgileri nasıl kullandığını açıklar. Uygulama **Google
 Play (Android)** ve **Apple App Store (iOS)** üzerinden dağıtılır; bu politika
-iki platformdaki sürümler için geçerlidir. Reklamlar, kur çevirici, Ortak
-Hesaplar ve satın alma 1.1.0 ve sonraki sürümlerde bulunur. Platforma özgü
-farklar ilgili bölümlerde ayrıca belirtilmiştir.
+iki platformdaki sürümler için geçerlidir. Platforma özgü farklar ilgili bölümlerde ayrıca belirtilmiştir.
 
 ## Veri Toplama ve Kullanım
 
@@ -141,12 +139,11 @@ sonra metin, seçtiğiniz uygulamanın kendi gizlilik koşullarına tabidir.
 
 ## Reklamlar ve Üçüncü Taraf Hizmetleri
 
-**Hesap Ne Kadar reklam içerir.** Uygulamanın 1.1.0 ve
-sonraki sürümleri Google AdMob aracılığıyla reklam gösterir. Reklam, bir
+**Hesap Ne Kadar reklam içerir.** Uygulama Google AdMob aracılığıyla reklam gösterir. Reklam, bir
 hesabın tüm ödemeleri tamamlandığında tam ekran (geçiş) reklamı olarak ve en
 çok iki dakikada bir kez gösterilir; reklam uygulamayı açarken, fiş okurken,
 hesap bölerken, Ortak Hesaplar'da veya kur çeviricide çıkmaz. Pro'da reklam
-gösterilmez. Bu sürümlerden önceki sürümlerde reklam bulunmaz.
+gösterilmez.
 
 Bir reklam gösterildiğinde Google ve reklam ortakları; reklam kimliği,
 yaklaşık konum (IP adresinden), cihaz ve uygulama etkileşim bilgileri gibi
@@ -161,10 +158,6 @@ gerekli olan diğer bölgelerde) Google'ın onay formu gösterilir; tercihinizi
 Ayarlar > Reklam gizliliği bölümünden istediğiniz zaman değiştirebilirsiniz.
 Telefonunuzun ayarlarından reklam kimliğinizi sıfırlayabilir veya
 kişiselleştirilmiş reklamları kapatabilirsiniz.
-
-Bu Gizlilik Politikası, Google Play veri güvenliği beyanları ve Apple App
-Privacy beyanları aynı şeyi söyler; biri değiştiğinde hepsi birlikte
-güncellenir.
 
 **Kullanılan üçüncü taraf hizmetler:** Google AdMob ve Google'ın onay formu
 (reklamlar), Google ML Kit (metin tanıma), Avrupa Merkez Bankası verisini
@@ -222,14 +215,12 @@ Destek sayfası: https://berkcoo.github.io/hesapnekadar/support/
 
 # Hesap Ne Kadar — Privacy Policy
 
-_Last updated: 14 October 2026_
+_Last updated: 22 October 2026_
 
 This Privacy Policy explains how Hesap Ne Kadar, developed by Berkco App
 Studio, handles information. The app is distributed through **Google Play
 (Android)** and the **Apple App Store (iOS)**; this policy applies to the
-versions on both platforms. Ads, the currency converter, Shared Accounts and
-the purchase are part of version 1.1.0 and later. Differences between the
-platforms are described in the relevant sections.
+versions on both platforms. Differences between the platforms are described in the relevant sections.
 
 **Data collection and use.** You don't need an account to use the app.
 Berkco App Studio does not collect or store personal data on its own servers.
@@ -333,12 +324,12 @@ app's own terms.
   identifier is not used, and the app works the same. You can change your choice
   at any time in iOS Settings > Privacy & Security > Tracking.
 
-**Ads and third-party services.** **Hesap Ne Kadar contains ads.** Versions
-1.1.0 and later show ads through Google AdMob. An ad appears as a
+**Ads and third-party services.** **Hesap Ne Kadar contains ads.** The app
+shows ads through Google AdMob. An ad appears as a
 full-screen (interstitial) ad when all payments of a bill are completed, at most
 once every two minutes; it does not appear when the app opens, while you scan a
 receipt or split a bill, or in Shared Accounts or the currency converter. Pro
-shows no ads. Earlier versions contain no ads.
+shows no ads.
 
 When an ad is shown, Google and its ad partners may process data such as the
 advertising ID, approximate location (from the IP address), and device and app
@@ -352,10 +343,6 @@ Users in the European Economic Area, the United Kingdom and Switzerland (and
 other regions where required) are shown Google's consent form; you can change
 your choice at any time under Settings > Ad privacy. You can also reset your
 advertising ID or turn off ad personalisation in your phone's settings.
-
-This Privacy Policy, the Google Play data safety declarations and the Apple
-App Privacy declarations say the same thing; when one changes, all of them are
-updated together.
 
 **Third-party services used:** Google AdMob and Google's consent form (ads),
 Google ML Kit (text recognition), Frankfurter, which serves European Central
