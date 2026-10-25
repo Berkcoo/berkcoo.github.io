@@ -5,7 +5,7 @@ permalink: /hesapnekadar/privacy/
 
 # Hesap Ne Kadar — Gizlilik Politikası
 
-_Son güncelleme: 22 Ekim 2026_
+_Son güncelleme: 25 Ekim 2026_
 
 Bu Gizlilik Politikası, Berkco App Studio tarafından geliştirilen Hesap Ne
 Kadar uygulamasının bilgileri nasıl kullandığını açıklar. Uygulama **Google
@@ -19,10 +19,11 @@ Studio, kendi sunucularında kişisel veri toplamaz veya saklamaz.
 
 Uygulama, temel işlevleri için kullanılan bilgileri cihaz üzerinde işler.
 Fiş görüntüleri, okunan metinler, hesap bilgileri ve ortak hesaplarınız
-Berkco App Studio'ya gönderilmez. Ancak uygulamada kullanılan Google AdMob
-gibi üçüncü taraf hizmetler, reklam sunumu ve ölçümü amacıyla belirli verileri
-kendi gizlilik politikalarına göre işleyebilir (aşağıdaki "Reklamlar"
-bölümüne bakın).
+Berkco App Studio'ya kendiliğinden gönderilmez. Yalnızca siz seçerseniz bize bir metin
+e-postası gönderilebilir (aşağıdaki "Fişi Bize Gönderme" bölümü). Ayrıca
+uygulamada kullanılan Google AdMob gibi üçüncü taraf hizmetler, reklam sunumu
+ve ölçümü amacıyla belirli verileri kendi gizlilik politikalarına göre
+işleyebilir (aşağıdaki "Reklamlar" bölümüne bakın).
 
 ## Kamera ve Fiş Görüntüleri
 
@@ -45,6 +46,42 @@ tutulur ve okunduktan sonra silinir. Fotoğraflar galerinize kaydedilmez.
 Ortak hesaplara kaydedilen fişlerde fotoğraf saklanmaz; yalnızca okunan ürün
 adları ve tutarlar saklanır.
 
+## Fişi Bize Gönderme (İsteğe Bağlı)
+
+Bir fiş yanlış okunduğunda ya da ürünlerin toplamı fişin toplamıyla
+tutmadığında uygulama "Fişi gönder" seçeneği sunabilir. Bu seçenek yalnızca
+siz basarsanız çalışır: önce gönderilecek metin ekranda gösterilir ve siz
+"Gönder" demeden hiçbir şey gönderilmez. Metin, e-posta uygulamanızda hazır
+açılır ve göndermek size kalır (e-posta uygulaması yoksa paylaşım menüsü
+açılır).
+
+Metinde şunlar bulunur: fişteki tutar içeren satırlar (ve her birinin bir
+üstündeki satır, çünkü ürün adı genellikle oradadır), uygulamanın bunlardan
+hangi ürünleri ve tutarları çıkardığı, fişte yazan toplam, sizin yaptığınız
+düzeltmeler, para birimi, uygulama sürümü, işletim sistemi (Android / iOS)
+ve dil. **Fiş fotoğrafı gönderilmez.** Uygulama; adres, telefon, kart, vergi
+ve fiş numarası, e-posta ve internet adresi, kasiyer ve müşteri gibi bir kişiyi
+ya da yeri belli edebilecek satırları ayıklamaya çalışır; ancak bu otomatik
+bir ayıklamadır, bu yüzden göndermeden önce metni okumanızı rica ederiz. E-postayı gönderdiğiniz için
+e-posta adresiniz bize ulaşır.
+
+Amaç, fiş okuma doğruluğunu iyileştirmektir. Gelen e-postalar yalnızca bu
+amaçla kullanılır, üçüncü kişilerle paylaşılmaz, Google'ın Gmail hizmetinde
+saklanır ve hakkınızda profil çıkarmak için kullanılmaz. Silinmesini
+istediğinizde bize yazabilirsiniz.
+
+## Yedekleme ve Taşıma (Dosya)
+
+Ayarlar > "Yedek ve taşıma" ile Ortak Hesaplarınızı (hesaplar, kişi adları,
+harcamalar, fişlerden okunan ürünler, ödemeler ve bütçeniz) tek bir dosyaya
+kaydedebilir ve başka bir telefonda aynı yerden içe aktarabilirsiniz. Dosya,
+paylaşım menüsünde sizin seçtiğiniz yere (Dosyalar, e-posta, bulut sürücünüz
+gibi) gider; Berkco App Studio'ya gönderilmez. Dosyayı kimle ve nereye
+paylaştığınız size aittir; içinde kişi adları ve harcamalar bulunduğu için
+güvendiğiniz yerde saklayın. Dosyada Pro ve Plus durumunuz ve ücretsiz hak sayacı
+yer almaz; dosya bir satın alımı taşımaz. İçe aktarırken aynı kayıtlar bir daha
+eklenmez.
+
 ## Yerel Veri Saklama
 
 Bölünmekte olan hesaba ait bilgiler (ürünler, tutarlar, ödemeler ve
@@ -54,8 +91,9 @@ Kişi adı girmek isteğe bağlıdır. Hesap tamamlandığında, yeni bir fiş
 okuttuğunuzda ya da hesabı ana ekrandan sildiğinizde bu bilgiler kaldırılır.
 
 **Ortak Hesaplar** özelliğinde oluşturduğunuz hesaplar (hesap adları, kişi
-adları, harcamalar, fişlerden okunan ürünler, ödemeler) cihazınızdaki özel
-bir veritabanında saklanır. Siz silene kadar kalır. Bu bilgiler Berkco App
+adları, harcamalar, fişlerden okunan ürünler, ödemeler) ve (Plus'ta) belirlediğiniz
+aylık bütçe, cihazınızdaki özel bir veritabanında saklanır. Aylık özet ve
+Bütçe ekranlarındaki hesaplamalar cihazınızda yapılır. Siz silene kadar kalır. Bu bilgiler Berkco App
 Studio'ya gönderilmez ve oradan uzaktan erişilmez. Uygulama cihazdan
 kaldırıldığında uygulamaya ait yerel veriler işletim sistemi tarafından
 silinir.
@@ -87,38 +125,48 @@ listesini ister; fiş, hesap ya da kişi bilgisi içermez. Bu hizmetler, bağlan
 gereği cihazınızın IP adresini görebilir. İndirilen kurlar cihazınızda
 saklanır. Kurlar bilgi amaçlıdır; bankanızın uyguladığı kur farklı olabilir.
 
-## Satın Alma (Ortak Hesaplar)
+## Satın Alma (Pro ve Plus)
 
 Ortak Hesaplar'ı ücretsiz deneyebilirsiniz. Ücretsiz haklar bittikten sonra
-yeni hesap ve harcama eklemeye devam etmek için tek seferlik bir satın alma
-(Pro) sunulur (abonelik değildir). Pro, Ortak Hesaplar'ı sınırsız kullanmayı
-ve reklamsız kullanımı içerir. Satın alma Google Play (Android) veya App Store
-(iOS) üzerinden yapılır; fiyat mağazada gösterilir, ödeme bilgileriniz bu
-mağazalar tarafından işlenir ve Berkco App Studio'ya ulaşmaz.
+yeni hesap ve harcama eklemeye devam etmek için iki seçenek sunulur:
 
-Pro, mağaza hesabınıza (Apple Kimliği veya Google hesabı) bağlıdır. Telefon
-değiştirdiğinizde ya da uygulamayı silip yeniden yüklediğinizde, aynı hesapla
-uygulama açıldığında satın alımınızı mağazadan kendiliğinden bulur ve bunun
-için giriş penceresi göstermez; bulamazsa Ayarlar'daki ya da Pro
+- **Pro:** tek seferlik satın alma (abonelik değildir). Ortak Hesaplar'ı
+  sınırsız kullanmayı ve reklamsız kullanımı içerir.
+- **Plus:** aylık abonelik. Pro'nun her şeyini ve Aylık özet ile Bütçe'yi (ve
+  gelecekte eklenecek benzer özellikleri) içerir. Pro sahiplerine Plus için
+  1 aylık ücretsiz deneme sunulur (mağaza hesabı başına bir kez; uygunluğu mağaza belirler).
+  Abonelik, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik
+  yenilenir; ödeme satın alma onayında mağaza hesabınızdan alınır ve
+  aboneliği Google Play veya App Store hesap ayarlarınızdan istediğiniz zaman
+  iptal edebilirsiniz.
+
+Satın alma Google Play (Android) veya App Store (iOS) üzerinden yapılır; fiyat
+mağazada ülkenize göre gösterilir, ödeme bilgileriniz bu mağazalar tarafından
+işlenir ve Berkco App Studio'ya ulaşmaz.
+
+Pro ve Plus, mağaza hesabınıza (Apple Kimliği veya Google hesabı) bağlıdır.
+Telefon değiştirdiğinizde ya da uygulamayı silip yeniden yüklediğinizde, aynı
+hesapla uygulama açıldığında satın alımınızı mağazadan kendiliğinden bulur ve
+bunun için giriş penceresi göstermez; bulamazsa Ayarlar'daki ya da plan
 sayfasındaki "Satın alımı geri yükle" düğmesiyle mağazadan yeniden
 isteyebilirsiniz (iOS'ta Apple Kimliği şifreniz istenebilir). Bunun için hesap
-açmanız gerekmez. Uygulama, Pro'ya sahip olduğunuzu yalnızca cihazınızda
-saklar; bu bilgi Berkco App Studio'ya gönderilmez.
+açmanız gerekmez. Uygulama, Pro ve Plus'a sahip olduğunuzu ve son doğrulama
+zamanını yalnızca cihazınızda saklar; bu bilgi Berkco App Studio'ya gönderilmez.
 
 ## Paylaşım
 
-Hesap özetini paylaşmayı seçtiğinizde özet metni, cihazınızın paylaşım
-menüsünden seçtiğiniz uygulamaya (örneğin WhatsApp) iletilir. Bu noktadan
+Hesap özetini (ya da bir hesaplaşma önerisini) paylaşmayı seçtiğinizde özet
+metni, cihazınızın paylaşım menüsünden seçtiğiniz uygulamaya iletilir. Bu noktadan
 sonra metin, seçtiğiniz uygulamanın kendi gizlilik koşullarına tabidir.
 
 ## Cihaz İzinleri
 
 - **Kamera:** fiş okumak için. Yalnızca siz fiş okuturken kullanılır.
-- **İnternet:** kur çeviricisi için kurları indirmek ve reklamları göstermek
-  için (Android'de internet ve ağ durumu izinleri). Fişleriniz, fotoğraflarınız
+- **İnternet:** kur çeviricisi için kurları indirmek, reklamları göstermek ve
+  abonelik durumunu mağazadan doğrulamak için (Android'de internet ve ağ durumu izinleri). Fişleriniz, fotoğraflarınız
   ve hesap bilgileriniz bu bağlantıyla gönderilmez.
-- **Satın alma:** Android'de Google Play faturalandırma izni (Pro'yu satın
-  almak için). iOS'ta bunun için ayrı bir izin gerekmez.
+- **Satın alma:** Android'de Google Play faturalandırma izni (Pro'yu ve Plus'ı
+  satın almak için). iOS'ta bunun için ayrı bir izin gerekmez.
 - **Reklam kimliği:** Android'de Google reklam kimliği (reklam kimliğini
   istediğiniz zaman telefon ayarlarından sıfırlayabilir veya
   kişiselleştirmeyi kapatabilirsiniz).
@@ -142,7 +190,7 @@ sonra metin, seçtiğiniz uygulamanın kendi gizlilik koşullarına tabidir.
 **Hesap Ne Kadar reklam içerir.** Uygulama Google AdMob aracılığıyla reklam gösterir. Reklam, bir
 hesabın tüm ödemeleri tamamlandığında tam ekran (geçiş) reklamı olarak ve en
 çok iki dakikada bir kez gösterilir; reklam uygulamayı açarken, fiş okurken,
-hesap bölerken, Ortak Hesaplar'da veya kur çeviricide çıkmaz. Pro'da reklam
+hesap bölerken, Ortak Hesaplar'da veya kur çeviricide çıkmaz. Pro ve Plus'ta reklam
 gösterilmez.
 
 Bir reklam gösterildiğinde Google ve reklam ortakları; reklam kimliği,
@@ -167,6 +215,11 @@ tabidir.
 
 Şu anda uygulamada kendi adımıza kullanıcı analitiği veya takibi için ayrı bir
 hizmet kullanılmamaktadır; bu durum değişirse bu politika güncellenir.
+
+## Diller
+
+Uygulama telefonunuzun diliyle açılır (Türkçe, İngilizce, Almanca, Fransızca,
+İspanyolca, İtalyanca; başka bir dilde İngilizce). Dil seçimi bize gönderilmez.
 
 ## Mağazalar
 
@@ -215,7 +268,7 @@ Destek sayfası: https://berkcoo.github.io/hesapnekadar/support/
 
 # Hesap Ne Kadar — Privacy Policy
 
-_Last updated: 22 October 2026_
+_Last updated: 25 October 2026_
 
 This Privacy Policy explains how Hesap Ne Kadar, developed by Berkco App
 Studio, handles information. The app is distributed through **Google Play
@@ -226,9 +279,11 @@ versions on both platforms. Differences between the platforms are described in t
 Berkco App Studio does not collect or store personal data on its own servers.
 The app processes the information it needs for its core features on your
 device. Receipt images, recognised text, bill details and your shared accounts
-are not sent to Berkco App Studio. However, third-party services used in the
-app, such as Google AdMob, may process certain data for ad delivery and
-measurement in accordance with their own privacy policies (see "Ads" below).
+are not sent to Berkco App Studio automatically. Only if you choose to, a text
+email can be sent to us (see "Sending us a receipt" below). In addition,
+third-party services used in the app, such as Google AdMob, may process certain
+data for ad delivery and measurement in accordance with their own privacy
+policies (see "Ads" below).
 
 **Camera and receipt images.** The app uses your camera to read item names
 and prices from receipts. Text recognition uses Google ML Kit running on
@@ -245,6 +300,38 @@ temporary folder and deleted after reading. Photos are not saved to your
 gallery. For receipts saved into shared accounts, no photo is kept; only the
 item names and amounts that were read.
 
+**Sending us a receipt (optional).** When a receipt was read wrongly or the
+items do not add up to the receipt total, the app may offer "Send the
+receipt". It only works if you tap it: the text to be sent is shown on screen
+first, and nothing is sent until you confirm. The text opens ready in your email
+app and sending it is up to you (if there is no email app, the share menu
+opens).
+
+The text contains: the receipt lines that carry an amount (and the line above
+each, since the item name is usually there), which items and amounts the app
+made of them, the total printed on the receipt, the corrections you made, the
+currency, the app version, the operating system (Android / iOS) and the
+language. **No photo of the receipt is sent.** The app tries to remove lines
+that could identify a person or a place, such as addresses, phone, card, tax
+and receipt numbers, email and web addresses, cashier and customer lines; this
+is an automatic filter, so please read the text before you send it. Because you
+send the email, your email address reaches us.
+
+The purpose is to improve reading accuracy. The emails are used only for that
+purpose, are not shared with third parties, are kept in Google's Gmail service
+and are not used to build a profile of you. You can write to us to have them
+deleted.
+
+**Backup and transfer (file).** Under Settings > "Backup and transfer" you can
+save your Shared Accounts (accounts, people's names, expenses, items read from
+receipts, payments and your budget) to a single file and import it on another
+phone from the same place. The file goes where you choose in the share menu
+(Files, email, your cloud drive and so on); it is not sent to Berkco App
+Studio. Where you share the file and with whom is up to you; since it contains
+names and expenses, keep it somewhere you trust. The file does not contain your
+Pro or Plus status or the free-use counter; it does not carry a purchase. When
+importing, records that are already there are not added again.
+
 **Local storage.** Details of the bill in progress (items, amounts, payments
 and, if you enter them, people's names) are kept in the app's private
 storage on your device so you can continue after the app closes. Entering
@@ -252,9 +339,9 @@ names is optional. They are removed when the bill is settled, replaced or
 deleted from the home screen.
 
 Accounts you create in **Shared Accounts** (account names, people's names,
-expenses, items read from receipts, payments) are kept in a private database
-on your device until you delete them. They are not sent to Berkco App Studio
-or accessed remotely by it. The operating system removes the app's local data
+expenses, items read from receipts, payments) and (with Plus) the monthly budget
+you set are kept in a private database on your device until you delete them. The calculations in the Monthly summary and Budget screens are made on your
+device. They are not sent to Berkco App Studio or accessed remotely by it. The operating system removes the app's local data
 when you uninstall the app.
 
 - **Android:** if the device backup is turned on, only the Shared Accounts
@@ -281,33 +368,46 @@ information. These services can see your device's IP address, as with any
 connection. Downloaded rates are kept on your device. Rates are for
 information only; your bank may apply a different rate.
 
-**Purchase (Shared Accounts).** You can try Shared Accounts for free. After
-the free uses are spent, a one-time purchase (Pro, not a subscription) is
-offered to keep adding new accounts and expenses. Pro includes unlimited Shared
-Accounts and no ads. The purchase is made through Google Play (Android) or the
-App Store (iOS); the price is shown in the store, and your payment details are
+**Purchases (Pro and Plus).** You can try Shared Accounts for free. After the
+free uses are spent, there are two options to keep adding new accounts and
+expenses:
+
+- **Pro:** a one-time purchase (not a subscription). It includes unlimited
+  Shared Accounts and no ads.
+- **Plus:** a monthly subscription. It includes everything in Pro plus Monthly
+  summary and Budget (and similar features added later). Pro owners are offered a
+  1-month free trial of Plus (once per store account; the store decides
+  eligibility). The subscription renews automatically unless cancelled at least
+  24 hours before the end of the period; payment is charged to your store
+  account when you confirm the purchase, and you can cancel at any time in your
+  Google Play or App Store account settings.
+
+The purchase is made through Google Play (Android) or the App Store (iOS); the
+price is shown in the store for your country, and your payment details are
 processed by those stores and do not reach Berkco App Studio.
 
-Pro is tied to your store account (Apple ID or Google account). When you change
-phones or delete and reinstall the app, the app finds your purchase from the
-store when it starts with the same account, and shows no sign-in screen for
-that; if it does not, you can ask the store again with "Restore purchase" in
-Settings or on the Pro page (on iOS your Apple ID password may be asked). No
-account of ours is needed. The app keeps the fact that you own Pro only on your
-device; it is not sent to Berkco App Studio.
+Pro and Plus are tied to your store account (Apple ID or Google account). When
+you change phones or delete and reinstall the app, the app finds your purchase
+from the store when it starts with the same account, and shows no sign-in screen
+for that; if it does not, you can ask the store again with "Restore purchase" in
+Settings or on the plans page (on iOS your Apple ID password may be asked). No
+account of ours is needed. The app keeps the fact that you own Pro and Plus, and
+when it was last confirmed, only on your device; it is not sent to Berkco App
+Studio.
 
-**Sharing.** When you choose to share a bill summary, the text goes to the
-app you pick from your device's share menu and is then subject to that
-app's own terms.
+**Sharing.** When you choose to share a bill summary (or a settle-up
+suggestion), the text goes to the app you pick from your device's share menu and
+is then subject to that app's own terms.
 
 **Device permissions.**
 
 - **Camera:** to read receipts, only while you scan.
-- **Internet:** to download exchange rates and to show ads (on Android, the
-  internet and network-state permissions). Your receipts, photos and account
+- **Internet:** to download exchange rates, to show ads and to check your
+  subscription with the store (on Android, the internet and network-state
+  permissions). Your receipts, photos and account
   details are not sent over that connection.
 - **Purchases:** on Android, the Google Play billing permission (to buy
-  Pro). On iOS no separate permission is needed for this.
+  Pro and Plus). On iOS no separate permission is needed for this.
 - **Advertising ID:** the Google advertising ID on Android (you can reset it or
   turn off personalisation in your phone's settings at any time).
 - **Ad services and background permissions (Android):** the ads SDK and its
@@ -329,7 +429,7 @@ shows ads through Google AdMob. An ad appears as a
 full-screen (interstitial) ad when all payments of a bill are completed, at most
 once every two minutes; it does not appear when the app opens, while you scan a
 receipt or split a bill, or in Shared Accounts or the currency converter. Pro
-shows no ads.
+and Plus show no ads.
 
 When an ad is shown, Google and its ad partners may process data such as the
 advertising ID, approximate location (from the IP address), and device and app
@@ -351,6 +451,10 @@ Store (purchase, updates, rating). Each is subject to its own privacy policy.
 
 At present the app does not use a separate analytics or user-tracking service
 of its own; if that changes, this policy will be updated.
+
+**Languages.** The app opens in your phone's language (Turkish, English,
+German, French, Spanish, Italian; English for any other language). Your language
+is not sent to us.
 
 **Stores.** The app is distributed through Google Play and the Apple App Store.
 The rating prompt and (on Android) the in-app update prompt are shown by the
