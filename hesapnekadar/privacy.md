@@ -46,6 +46,10 @@ tutulur ve okunduktan sonra silinir. Fotoğraflar galerinize kaydedilmez.
 Ortak hesaplara kaydedilen fişlerde fotoğraf saklanmaz; yalnızca okunan ürün
 adları ve tutarlar saklanır.
 
+Uzun bir fişi telefonu üzerinde yukarıdan aşağı götürerek taradığınızda,
+kameradan okunan metin satırları yalnızca tarama sürerken telefonun belleğinde
+bir araya getirilir; kaydedilmez ve gönderilmez.
+
 ## Fişi Bize Gönderme (İsteğe Bağlı)
 
 Bir fiş yanlış okunduğunda ya da ürünlerin toplamı fişin toplamıyla
@@ -299,6 +303,9 @@ When you take a photo of a receipt, it is kept in the app's
 temporary folder and deleted after reading. Photos are not saved to your
 gallery. For receipts saved into shared accounts, no photo is kept; only the
 item names and amounts that were read.
+When you scan a long receipt by moving the phone down it, the text rows read
+from the camera are put together in the phone's memory only while scanning;
+they are not saved or sent.
 
 **Sending us a receipt (optional).** When a receipt was read wrongly or the
 items do not add up to the receipt total, the app may offer "Send the
