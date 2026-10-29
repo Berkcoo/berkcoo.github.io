@@ -3,488 +3,184 @@ title: Hesap Ne Kadar — Gizlilik Politikası / Privacy Policy
 permalink: /hesapnekadar/gizlilik/
 ---
 
-# Hesap Ne Kadar — Gizlilik Politikası
+# Hesap Ne Kadar — Gizlilik Politikası ve Aydınlatma Metni
 
-_Son güncelleme: 25 Ekim 2026_
+_Yürürlük ve son güncelleme: 29 Ekim 2026_
 
-Bu Gizlilik Politikası, Berkco App Studio tarafından geliştirilen Hesap Ne
-Kadar uygulamasının bilgileri nasıl kullandığını açıklar. Uygulama **Google
-Play (Android)** ve **Apple App Store (iOS)** üzerinden dağıtılır; bu politika
-iki platformdaki sürümler için geçerlidir. Platforma özgü farklar ilgili bölümlerde ayrıca belirtilmiştir.
+## 1. Veri Sorumlusu ve Kapsam
 
-## Veri Toplama ve Kullanım
+İşbu metin, "Hesap Ne Kadar" mobil uygulamasının ("Uygulama") Google Play (Android) ve Apple App Store (iOS) üzerinden sunulan tüm sürümleri için geçerlidir. 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") m. 10 ve 2016/679 sayılı Avrupa Birliği Genel Veri Koruma Tüzüğü ("GDPR") m. 13 uyarınca aydınlatma yükümlülüğünün yerine getirilmesi amacıyla hazırlanmıştır.
 
-Hesap Ne Kadar'ı kullanmak için hesap oluşturmanız gerekmez. Berkco App
-Studio, kendi sunucularında kişisel veri toplamaz veya saklamaz.
+Uygulamayı geliştiren ve yayımlayan "Berkco App Studio", Berk Sönmez'in bireysel geliştirici sıfatıyla kullandığı marka adıdır; bir ticaret unvanı veya kayıtlı şirket değildir. Veri Sorumlusu ("Veri Sorumlusu") sıfatıyla iletişim adresi: **berkcoappstudio@gmail.com**.
 
-Uygulama, temel işlevleri için kullanılan bilgileri cihaz üzerinde işler.
-Fiş görüntüleri, okunan metinler, hesap bilgileri ve ortak hesaplarınız
-Berkco App Studio'ya kendiliğinden gönderilmez. Yalnızca siz seçerseniz bize bir metin
-e-postası gönderilebilir (aşağıdaki "Fişi Bize Gönderme" bölümü). Ayrıca
-uygulamada kullanılan Google AdMob gibi üçüncü taraf hizmetler, reklam sunumu
-ve ölçümü amacıyla belirli verileri kendi gizlilik politikalarına göre
-işleyebilir (aşağıdaki "Reklamlar" bölümüne bakın).
+## 2. Temel Esaslar
 
-## Kamera ve Fiş Görüntüleri
+Uygulamanın kullanılması için kullanıcı hesabı oluşturulması gerekmez. Fiş görüntüleri, okunan metinler, hesap ve kişi bilgileri ile ortak hesap kayıtları Kullanıcı'nın cihazında işlenir ve saklanır; Veri Sorumlusu bu verilere erişmez ve bunları kendi sunucularına aktarmaz. Veri Sorumlusu'na veri, yalnızca Kullanıcı'nın kendi iradesiyle ilettiği bildirimler (madde 4) yoluyla ulaşır. Üçüncü taraf hizmet sağlayıcıların kendi sorumluluğundaki işlemleri madde 7'de gösterilmiştir.
 
-Uygulama, fiş üzerindeki ürün ve fiyat bilgilerini okuyabilmek amacıyla
-cihazın kamerasını kullanır.
+## 3. Cihaz İçinde İşlenen Veriler
 
-Metin tanıma işlemleri cihaz üzerinde çalışan Google ML Kit teknolojisi
-kullanılarak gerçekleştirilir. Fiş görüntüleri ve tanınan metinler Berkco
-App Studio'ya gönderilmez. Android'de ML Kit'in Google'a teşhis verisi
-gönderen bileşeni devre dışı bırakılmıştır. iOS'ta ML Kit, Google'ın
-yayımladığı veri bildirimine göre cihaz ve uygulama bilgisi (cihaz modeli,
-işletim sistemi sürümü, uygulama kimliği ve sürümü), kuruluma özgü bir
-tanımlayıcı, performans ölçümleri ve hata kodları gibi teşhis ve kullanım
-analizi verilerini Google'a iletebilir; bu bildirimde fiş görüntüsü veya
-tanınan metin yer almaz. Bu veriler Google'ın kendi gizlilik politikasına
-tabidir ve Berkco App Studio'ya ulaşmaz.
+**3.1. Fiş görüntüsü ve metin tanıma.** Uygulama, fişteki ürün ve tutar bilgilerini okumak amacıyla cihaz kamerasını kullanır. Metin tanıma, cihaz üzerinde çalışan Google ML Kit ile gerçekleştirilir; görüntü ve tanınan metin Veri Sorumlusu'na iletilmez. Fiş fotoğrafı, uygulamanın geçici alanında yalnızca okuma süresince tutulur, okuma sonrasında silinir ve galeriye kaydedilmez; kesintiyle kalabilecek artıklar Uygulama'nın her açılışında temizlenir. Uzun bir fiş telefonun yukarıdan aşağı kaydırılmasıyla taranırken okunan satırlar yalnızca tarama süresince cihaz belleğinde birleştirilir; kaydedilmez ve iletilmez. Ortak hesaba kaydedilen fişte fotoğraf saklanmaz; yalnızca okunan ürün adları ve tutarlar saklanır.
 
-Fişi fotoğrafla okuttuğunuzda fotoğraf, uygulamanın geçici klasöründe
-tutulur ve okunduktan sonra silinir. Fotoğraflar galerinize kaydedilmez.
-Ortak hesaplara kaydedilen fişlerde fotoğraf saklanmaz; yalnızca okunan ürün
-adları ve tutarlar saklanır.
+**3.2. Hesap kayıtları.** Bölüştürülmekte olan hesap (ürünler, tutarlar, ödemeler ve girilmişse kişi adları) kaldığı yerden devam edilebilmesi için; Ortak Hesaplar (hesap ve kişi adları, harcamalar, fişlerden okunan ürünler, ödemeler) ile Plus kapsamındaki aylık bütçe ise Kullanıcı silene veya Uygulama cihazdan kaldırılana kadar cihazdaki uygulamaya özel alanda saklanır. Kişi adı girilmesi isteğe bağlıdır. Uygulama kaldırıldığında bu veriler işletim sistemi tarafından silinir.
 
-Uzun bir fişi telefonu üzerinde yukarıdan aşağı götürerek taradığınızda,
-kameradan okunan metin satırları yalnızca tarama sürerken telefonun belleğinde
-bir araya getirilir; kaydedilmez ve gönderilmez.
+**3.3. Cihaz yedeği.** Android'de cihaz yedeği etkinse yalnızca Ortak Hesaplar veritabanı Kullanıcı'nın Google hesabına yedeklenebilir; fiş fotoğrafları, önbellek ve bölüştürülmekte olan hesap yedeklenmez. iOS'ta iCloud veya bilgisayar yedeği etkinse Uygulama verileri Apple'ın yedekleme hizmeti kapsamında yedeklenebilir. Bu yedekler ilgili platform sağlayıcısının politikalarına tabidir.
 
-## Fişi Bize Gönderme (İsteğe Bağlı)
+**3.4. Yedek dosyası.** Kullanıcı, Ayarlar > "Yedek ve taşıma" bölümünden Ortak Hesaplarını tek bir dosyaya aktarabilir. Dosya, Kullanıcı'nın paylaşım menüsünde seçtiği hedefe iletilir; Veri Sorumlusu'na gönderilmez. Dosya kişi adları ve harcama bilgileri içerdiğinden güvenli bir yerde saklanması Kullanıcı'nın sorumluluğundadır. Pro/Plus durumu ve ücretsiz kullanım sayacı dosyada yer almaz.
 
-Bir fiş yanlış okunduğunda ya da ürünlerin toplamı fişin toplamıyla
-tutmadığında uygulama "Fişi gönder" seçeneği sunabilir. Bu seçenek yalnızca
-siz basarsanız çalışır: önce gönderilecek metin ekranda gösterilir ve siz
-"Gönder" demeden hiçbir şey gönderilmez. Metin, e-posta uygulamanızda hazır
-açılır ve göndermek size kalır (e-posta uygulaması yoksa paylaşım menüsü
-açılır).
+**3.5. Ücretsiz kullanım sayacı ve satın alma durumu.** Kaç ücretsiz hakkın kullanıldığını gösteren tek bir sayı, kişi veya hesap bilgisi içermeksizin cihazda tutulur; Android'de Uygulama yeniden kurulduğunda sıfırlanmaması amacıyla ayrıca Google Block Store hizmetinde saklanabilir. Pro/Plus sahipliği bilgisi ve son doğrulama zamanı yalnızca cihazda tutulur.
 
-Metinde şunlar bulunur: fişteki tutar içeren satırlar (ve her birinin bir
-üstündeki satır, çünkü ürün adı genellikle oradadır), uygulamanın bunlardan
-hangi ürünleri ve tutarları çıkardığı, fişte yazan toplam, sizin yaptığınız
-düzeltmeler, para birimi, uygulama sürümü, işletim sistemi (Android / iOS)
-ve dil. **Fiş fotoğrafı gönderilmez.** Uygulama; adres, telefon, kart, vergi
-ve fiş numarası, e-posta ve internet adresi, kasiyer ve müşteri gibi bir kişiyi
-ya da yeri belli edebilecek satırları ayıklamaya çalışır; ancak bu otomatik
-bir ayıklamadır, bu yüzden göndermeden önce metni okumanızı rica ederiz. E-postayı gönderdiğiniz için
-e-posta adresiniz bize ulaşır.
+## 4. Kullanıcı'nın Başlattığı Hata Bildirimi
 
-Amaç, fiş okuma doğruluğunu iyileştirmektir. Gelen e-postalar yalnızca bu
-amaçla kullanılır, üçüncü kişilerle paylaşılmaz, Google'ın Gmail hizmetinde
-saklanır ve hakkınızda profil çıkarmak için kullanılmaz. Silinmesini
-istediğinizde bize yazabilirsiniz.
+**4.1. Metin bildirimi.** Bir fişin hatalı okunması veya ürünlerin toplamının fiş toplamıyla uyuşmaması hâlinde Uygulama "Fişi gönder" seçeneğini sunabilir. Bildirim yalnızca Kullanıcı bu seçeneği kullandığında hazırlanır; gönderilecek metin önce ekranda gösterilir, Kullanıcı'nın e-posta uygulamasında hazır olarak açılır ve gönderme işlemi tamamen Kullanıcı'nın onayına bağlıdır. Metin; tutar içeren fiş satırlarını (ve üstlerindeki satırı), Uygulama'nın bunlardan çıkardığı ürün ve tutarları, fiş toplamını, Kullanıcı'nın düzeltmelerini, para birimini, Uygulama sürümünü, işletim sistemini ve dili içerir. Adres, telefon, kart, vergi ve fiş numarası, e-posta, kasiyer gibi kişi veya yeri belirleyebilecek satırlar otomatik olarak ayıklanır; ayıklama otomatiktir ve tam olarak güvence altına alınamaz, bu nedenle göndermeden önce metnin gözden geçirilmesi önerilir. Kullanıcı e-postayı bizzat gönderdiğinden e-posta adresi Veri Sorumlusu'na ulaşır. Bildirim, Kullanıcı'nın Uygulama içinde sunulan beyanı onaylamasına bağlıdır; onay verilmeden bildirim hazırlanmaz. Onaylanan beyan metni e-postanın içinde yer alır; bu beyanı içermeyen, beyanı silinmiş veya değiştirilmiş bildirimler işleme alınmaz ve silinir.
 
-## Yedekleme ve Taşıma (Dosya)
+**4.2. Fotoğraf kabul edilmez.** Veri Sorumlusu fiş fotoğrafı veya görüntüsü talep etmez ve kabul etmez; hata analizi için Kullanıcı'dan yalnızca Uygulama'nın okuduğu metin çıktısı ("Fişi gönder" ile hazırlanan satırlar) ve hatanın nerede olduğunu (hangi satır veya tutarın yanlış okunduğunu) bildiren yazı beklenir. Bildirim e-posta yoluyla iletildiğinden, Kullanıcı'nın buna fotoğraf veya başka kişisel veri eklemesi hâlinde bu eklemeden doğan sorumluluk, emredici hükümler saklı kalmak kaydıyla, tamamen Kullanıcı'ya aittir ve Veri Sorumlusu bu konuda sorumluluk kabul etmez. Eklenen görüntü hata analizinde kullanılmaz, üçüncü kişilere ve yapay zekâ destekli araçlara aktarılmaz ve en geç 30 gün içinde silinir. Fotoğraf gönderilmemesi Uygulama'nın kullanımını hiçbir şekilde etkilemez.
 
-Ayarlar > "Yedek ve taşıma" ile Ortak Hesaplarınızı (hesaplar, kişi adları,
-harcamalar, fişlerden okunan ürünler, ödemeler ve bütçeniz) tek bir dosyaya
-kaydedebilir ve başka bir telefonda aynı yerden içe aktarabilirsiniz. Dosya,
-paylaşım menüsünde sizin seçtiğiniz yere (Dosyalar, e-posta, bulut sürücünüz
-gibi) gider; Berkco App Studio'ya gönderilmez. Dosyayı kimle ve nereye
-paylaştığınız size aittir; içinde kişi adları ve harcamalar bulunduğu için
-güvendiğiniz yerde saklayın. Dosyada Pro ve Plus durumunuz ve ücretsiz hak sayacı
-yer almaz; dosya bir satın alımı taşımaz. İçe aktarırken aynı kayıtlar bir daha
-eklenmez.
+**4.3. Hukuki sebep, saklama ve silme.** Madde 4 kapsamındaki veriler, Kullanıcı'nın bildirimi göndermesiyle ortaya çıkan açık rızaya (KVKK m. 5/1; GDPR m. 6/1-a) dayanılarak, hata tespiti ve giderimi amacıyla işlenir. Bildirim metni, analizin tamamlanmasını takiben en geç 12 ay; yanlışlıkla gönderilmiş bir görüntü ise en geç 30 gün içinde silinir. Bildirim metni, hata analizi sırasında yapay zekâ destekli araçlar dahil yazılım geliştirme araçlarıyla incelenebilir; bu araçların sağlayıcıları yurt dışında bulunabilir ve Veri Sorumlusu metni bu araçlara aktarırken kişiyi belirleyebilecek bilgileri ayıklamaya çalışır. Kullanıcı, rızasını dilediği zaman geri alabilir ve silme talebinde bulunabilir. E-postalar Google'ın e-posta hizmetinde (Gmail) alınır ve saklanır; erişim Veri Sorumlusu ile sınırlıdır.
 
-## Yerel Veri Saklama
+## 5. İşleme Amaçları ve Hukuki Sebepler
 
-Bölünmekte olan hesaba ait bilgiler (ürünler, tutarlar, ödemeler ve
-girdiyseniz kişi adları), uygulama kapansa bile kaldığınız yerden devam
-edebilmeniz için cihazınızda, uygulamaya özel depolama alanında saklanır.
-Kişi adı girmek isteğe bağlıdır. Hesap tamamlandığında, yeni bir fiş
-okuttuğunuzda ya da hesabı ana ekrandan sildiğinizde bu bilgiler kaldırılır.
+| Faaliyet | Amaç | Hukuki sebep |
+|---|---|---|
+| Cihaz içi fiş okuma ve hesap kayıtları | Uygulama işlevlerinin sunulması | Veri Sorumlusu'nun erişimi bulunmadığından kendisince işlenmez; şeffaflık amacıyla belirtilmiştir |
+| Hata bildirimi (madde 4) | Yazılım hatalarının tespiti ve giderimi | Açık rıza (KVKK m. 5/1; GDPR m. 6/1-a) |
+| Kullanıcı ile yazışma | Talep ve soruların yanıtlanması | Meşru menfaat (KVKK m. 5/2-f; GDPR m. 6/1-f); talebin yerine getirilmesi |
+| Satın alma ve abonelik | Pro/Plus sunulması | Sözleşmenin ifası; işlem ilgili mağaza tarafından yürütülür |
+| Reklam gösterimi | Reklam sunumu ve ölçümü | Google'ın kendi sorumluluğundadır; AEA, Birleşik Krallık ve İsviçre'de Kullanıcı'nın onay formundaki tercihi |
 
-**Ortak Hesaplar** özelliğinde oluşturduğunuz hesaplar (hesap adları, kişi
-adları, harcamalar, fişlerden okunan ürünler, ödemeler) ve (Plus'ta) belirlediğiniz
-aylık bütçe, cihazınızdaki özel bir veritabanında saklanır. Aylık özet ve
-Bütçe ekranlarındaki hesaplamalar cihazınızda yapılır. Siz silene kadar kalır. Bu bilgiler Berkco App
-Studio'ya gönderilmez ve oradan uzaktan erişilmez. Uygulama cihazdan
-kaldırıldığında uygulamaya ait yerel veriler işletim sistemi tarafından
-silinir.
+## 6. Aktarımlar ve Yurt Dışına Aktarım
 
-- **Android:** Cihazın yedekleme özelliği açıksa yalnızca Ortak Hesaplar
-  veritabanı dosyası Google hesabınıza yedeklenebilir ve telefon değiştirirken
-  yeni telefona aktarılabilir. Fiş fotoğrafları, önbellek ve bölünmekte olan
-  hesap yedeklenmez.
-- **iOS:** iCloud veya bilgisayar yedeği açıksa uygulama verileri Apple'ın
-  yedekleme hizmeti tarafından yedeklenebilir.
+Veri Sorumlusu, kişisel verileri satmaz, kiralamaz veya pazarlama amacıyla üçüncü kişilerle paylaşmaz. Madde 7'de sayılan hizmet sağlayıcılar, cihazdan doğrudan veri aldıklarında kendi gizlilik politikaları çerçevesinde ve çoğunlukla bağımsız veri sorumlusu sıfatıyla hareket eder; bu hizmetlerin sunucuları Türkiye dışında bulunabilir ve bu durumda aktarım ilgili hizmet sağlayıcı tarafından, KVKK m. 9 ve GDPR Bölüm V hükümlerine uygun olarak gerçekleştirilir. Madde 4 kapsamında e-posta yoluyla iletilen veriler, yurt dışında bulunabilecek e-posta altyapısı üzerinden Veri Sorumlusu'na ulaşır; Kullanıcı bunu bildirimi bizzat göndererek kabul eder.
 
-Bu yedekleme hizmetleri Google'ın ve Apple'ın kendi gizlilik politikalarına
-tabidir ve Berkco App Studio'ya ulaşmaz.
+## 7. Üçüncü Taraf Hizmet Sağlayıcılar
 
-**Ücretsiz kullanım hakkı sayacı.** Ortak Hesaplar'ın birkaç ücretsiz
-kullanım hakkı vardır (şu an üç). Kaç hakkın harcandığını gösteren tek bir
-sayı tutulur; ad ya da hesap bilgisi içermez. Android'de bu sayı, uygulamayı
-silip yeniden kurmak ücretsiz hakları sıfırlamasın diye Google'ın Block Store
-hizmetinde de saklanır; Google yedeklemesi açıksa Google tarafından işlenir
-ve Berkco App Studio'ya ulaşmaz. iOS'ta bu sayı uygulamanın kendi
-verisindedir.
+Uygulama aşağıdaki hizmetlerden yararlanır; her biri kendi politikasına tabidir ve ilgili verilerden ayrıca sorumludur:
 
-## Kur Çevirici
+- **Google AdMob ve Google Kullanıcı Mesajlaşma Platformu (onay formu):** reklam sunumu, ölçümü ve onay tercihlerinin yönetimi.
+- **Google ML Kit:** cihaz üzerinde metin tanıma. Android'de teşhis verisi gönderen bileşen devre dışıdır. iOS'ta Google'ın yayımladığı bildirime göre cihaz ve uygulama bilgisi, kuruluma özgü bir tanımlayıcı, performans ölçümleri ve hata kodları gibi teşhis verileri Google'a iletilebilir; fiş görüntüsü veya tanınan metin bu bildirimde yer almaz.
+- **Google Play ve Apple App Store:** dağıtım, ödeme, abonelik, satın alma geri yükleme, güncelleme ve değerlendirme istemleri. Ödeme bilgileri Veri Sorumlusu'na ulaşmaz.
+- **Apple SKAdNetwork ve Uygulama İzleme Şeffaflığı:** iOS'ta kimlik içermeyen reklam ölçümü ve izleme izni istemi.
+- **Frankfurter (Avrupa Merkez Bankası kurları) ve ExchangeRate-API:** kur çeviricinin açılmasıyla güncel kurların indirilmesi. İstek fiş, hesap veya kişi bilgisi içermez; bu hizmetler bağlantı gereği IP adresini görebilir. Kurlar bilgi amaçlıdır.
+- **Google Gmail:** madde 4 kapsamındaki e-postaların alınması.
+- **Yazılım geliştirme ve hata analizi araçları (yapay zekâ destekli araçlar dahil):** Kullanıcı'nın gönderdiği bildirim metninin incelenmesi; sağlayıcılar yurt dışında bulunabilir.
 
-Kur çeviricisini açtığınızda güncel döviz kurları internetten indirilir.
-Kurlar şu kaynaklardan alınır: Avrupa Merkez Bankası referans kurları
-(Frankfurter servisi aracılığıyla) ve ExchangeRate-API. İstek yalnızca kur
-listesini ister; fiş, hesap ya da kişi bilgisi içermez. Bu hizmetler, bağlantı
-gereği cihazınızın IP adresini görebilir. İndirilen kurlar cihazınızda
-saklanır. Kurlar bilgi amaçlıdır; bankanızın uyguladığı kur farklı olabilir.
+Veri Sorumlusu, kendi adına ayrı bir kullanıcı analitiği veya izleme hizmeti kullanmamaktadır; bu durum değişirse işbu metin güncellenir.
 
-## Satın Alma (Pro ve Plus)
+## 8. Reklamlar ve Tercihler
 
-Ortak Hesaplar'ı ücretsiz deneyebilirsiniz. Ücretsiz haklar bittikten sonra
-yeni hesap ve harcama eklemeye devam etmek için iki seçenek sunulur:
+Uygulama, Google AdMob aracılığıyla tam ekran reklam içerir. Reklam, bir hesabın tüm ödemeleri tamamlandığında ve en çok iki dakikada bir gösterilir; uygulama açılışında, fiş okuma, hesap bölme, Ortak Hesaplar ve kur çevirici ekranlarında gösterilmez. Pro ve Plus kapsamında reklam gösterilmez. Reklam gösterildiğinde Google ve iş ortakları; reklam kimliği, IP adresinden türetilen yaklaşık konum ve etkileşim bilgisi gibi verileri kendi politikaları çerçevesinde işleyebilir (https://policies.google.com/technologies/ads). Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de (ve gereken diğer yerlerde) Google'ın onay formu gösterilir; tercih Ayarlar > Reklam gizliliği'nden değiştirilebilir. Android'de reklam kimliği telefon ayarlarından sıfırlanabilir veya kişiselleştirme kapatılabilir. iOS'ta ilk reklamdan önce Apple'ın "İzleme" istemi gösterilir; reddedilmesi hâlinde reklamlar gösterilebilir ancak reklam tanımlayıcısı (IDFA) kullanılmaz; tercih iOS Ayarlar > Gizlilik ve Güvenlik > İzleme bölümünden değiştirilebilir.
 
-- **Pro:** tek seferlik satın alma (abonelik değildir). Ortak Hesaplar'ı
-  sınırsız kullanmayı ve reklamsız kullanımı içerir.
-- **Plus:** aylık abonelik. Pro'nun her şeyini ve Aylık özet ile Bütçe'yi (ve
-  gelecekte eklenecek benzer özellikleri) içerir. Pro sahiplerine Plus için
-  1 aylık ücretsiz deneme sunulur (mağaza hesabı başına bir kez; uygunluğu mağaza belirler).
-  Abonelik, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik
-  yenilenir; ödeme satın alma onayında mağaza hesabınızdan alınır ve
-  aboneliği Google Play veya App Store hesap ayarlarınızdan istediğiniz zaman
-  iptal edebilirsiniz.
+## 9. İzinler
 
-Satın alma Google Play (Android) veya App Store (iOS) üzerinden yapılır; fiyat
-mağazada ülkenize göre gösterilir, ödeme bilgileriniz bu mağazalar tarafından
-işlenir ve Berkco App Studio'ya ulaşmaz.
+Kamera (yalnızca fiş okurken); internet (kur indirme, reklam ve abonelik doğrulaması; fiş, fotoğraf ve hesap bilgileri bu bağlantıyla iletilmez); Android'de Google Play faturalandırma, reklam kimliği ve reklam hizmetleri izinleri ile reklam kütüphanelerinin eklediği arka plan izinleri (WAKE_LOCK, FOREGROUND_SERVICE).
 
-Pro ve Plus, mağaza hesabınıza (Apple Kimliği veya Google hesabı) bağlıdır.
-Telefon değiştirdiğinizde ya da uygulamayı silip yeniden yüklediğinizde, aynı
-hesapla uygulama açıldığında satın alımınızı mağazadan kendiliğinden bulur ve
-bunun için giriş penceresi göstermez; bulamazsa Ayarlar'daki ya da plan
-sayfasındaki "Satın alımı geri yükle" düğmesiyle mağazadan yeniden
-isteyebilirsiniz (iOS'ta Apple Kimliği şifreniz istenebilir). Bunun için hesap
-açmanız gerekmez. Uygulama, Pro ve Plus'a sahip olduğunuzu ve son doğrulama
-zamanını yalnızca cihazınızda saklar; bu bilgi Berkco App Studio'ya gönderilmez.
+## 10. Güvenlik
 
-## Paylaşım
+Veri Sorumlusu, KVKK m. 12 ve GDPR m. 32 uyarınca makul teknik ve idari tedbirleri uygulamaya çalışır. Veriler esas olarak Kullanıcı'nın cihazında kaldığından cihazın ve yedeklerin güvenliği Kullanıcı'nın sorumluluğundadır. Hiçbir elektronik ortamın mutlak güvenliği garanti edilemez.
 
-Hesap özetini (ya da bir hesaplaşma önerisini) paylaşmayı seçtiğinizde özet
-metni, cihazınızın paylaşım menüsünden seçtiğiniz uygulamaya iletilir. Bu noktadan
-sonra metin, seçtiğiniz uygulamanın kendi gizlilik koşullarına tabidir.
+## 11. Haklarınız ve Başvuru
 
-## Cihaz İzinleri
+İlgili kişi olarak KVKK m. 11 uyarınca; kişisel verilerinizin işlenip işlenmediğini öğrenme, işlenmişse bilgi talep etme, amacına uygun kullanılıp kullanılmadığını öğrenme, yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme, eksik veya yanlış işlenmişse düzeltilmesini isteme, KVKK m. 7 kapsamında silinmesini veya yok edilmesini isteme, bu işlemlerin aktarıldığı üçüncü kişilere bildirilmesini isteme, münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhinize bir sonuç doğmasına itiraz etme ve kanuna aykırı işleme nedeniyle zararın giderilmesini talep etme haklarına sahipsiniz. AEA ve Birleşik Krallık'taki kullanıcılar ayrıca GDPR kapsamındaki erişim, düzeltme, silme, işlemenin kısıtlanması, itiraz ve veri taşınabilirliği haklarına sahiptir; işleme rızaya dayanıyorsa rıza, geri alma tarihine kadar yapılan işlemlerin hukuka uygunluğunu etkilemeksizin geri alınabilir.
 
-- **Kamera:** fiş okumak için. Yalnızca siz fiş okuturken kullanılır.
-- **İnternet:** kur çeviricisi için kurları indirmek, reklamları göstermek ve
-  abonelik durumunu mağazadan doğrulamak için (Android'de internet ve ağ durumu izinleri). Fişleriniz, fotoğraflarınız
-  ve hesap bilgileriniz bu bağlantıyla gönderilmez.
-- **Satın alma:** Android'de Google Play faturalandırma izni (Pro'yu ve Plus'ı
-  satın almak için). iOS'ta bunun için ayrı bir izin gerekmez.
-- **Reklam kimliği:** Android'de Google reklam kimliği (reklam kimliğini
-  istediğiniz zaman telefon ayarlarından sıfırlayabilir veya
-  kişiselleştirmeyi kapatabilirsiniz).
-- **Reklam hizmetleri ve arka plan izinleri (Android):** Reklam SDK'sı ve
-  yardımcı kütüphaneleri, Android'in reklam hizmetleri izinlerini (reklam
-  kimliği, reklam ölçümü ve ilgi alanı konuları: ACCESS_ADSERVICES) ve arka
-  plan işleri için gerekli izinleri (WAKE_LOCK, FOREGROUND_SERVICE) uygulamaya
-  ekler. Bunlar reklamların sunulması, ölçülmesi ve arka plandaki teknik işler
-  içindir; Android'de bu bilgiler Google'ın reklam hizmetlerine tabidir ve
-  Berkco App Studio'ya ulaşmaz.
-- **İzleme (yalnızca iOS):** Uygulama, ilk reklam istenmeden önce Apple'ın
-  "İzleme" izin penceresini gösterir. İzin verirseniz reklam tanımlayıcınız
-  (IDFA) reklam ortakları tarafından reklamları kişiselleştirmek ve ölçmek
-  için kullanılabilir; Apple bunu "izleme" olarak tanımlar. Vermezseniz
-  reklamlar yine gösterilebilir ancak bu tanımlayıcı kullanılmaz ve uygulama
-  aynı şekilde çalışır. Tercihinizi iOS Ayarlar > Gizlilik ve Güvenlik >
-  İzleme bölümünden istediğiniz zaman değiştirebilirsiniz.
+Başvurular **berkcoappstudio@gmail.com** adresine iletilir ve en geç otuz gün içinde yanıtlanır. Veri Sorumlusu, kimliğinizi doğrulamak için makul bilgi isteyebilir. Başvurunun yanıtlanmaması veya yetersiz bulunması hâlinde Kişisel Verileri Koruma Kurulu'na (veya yerleşik olduğunuz ülkenin denetim otoritesine) şikâyet hakkınız saklıdır. Google veya Apple'ın tuttuğu veriler için ilgili şirketin kendi araçları kullanılabilir.
 
-## Reklamlar ve Üçüncü Taraf Hizmetleri
+## 12. Çocuklar
 
-**Hesap Ne Kadar reklam içerir.** Uygulama Google AdMob aracılığıyla reklam gösterir. Reklam, bir
-hesabın tüm ödemeleri tamamlandığında tam ekran (geçiş) reklamı olarak ve en
-çok iki dakikada bir kez gösterilir; reklam uygulamayı açarken, fiş okurken,
-hesap bölerken, Ortak Hesaplar'da veya kur çeviricide çıkmaz. Pro ve Plus'ta reklam
-gösterilmez.
+Uygulama çocuklara yönelik değildir. Hesap gerekmez; kişi adı girilmesi isteğe bağlıdır ve veriler cihazda kalır.
 
-Bir reklam gösterildiğinde Google ve reklam ortakları; reklam kimliği,
-yaklaşık konum (IP adresinden), cihaz ve uygulama etkileşim bilgileri gibi
-verileri reklamları sunmak, ölçmek ve kötüye kullanımı önlemek için kendi
-gizlilik politikalarına göre işleyebilir. Bu veriler Berkco App Studio'ya
-iletilmez. iOS'ta reklam ölçümü ayrıca Apple'ın SKAdNetwork sistemiyle
-yapılabilir; bu ölçüm kimliğinizi içermez. Bilgi için:
-https://policies.google.com/technologies/ads
+## 13. Değişiklikler ve İletişim
 
-Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'deki kullanıcılara (ve
-gerekli olan diğer bölgelerde) Google'ın onay formu gösterilir; tercihinizi
-Ayarlar > Reklam gizliliği bölümünden istediğiniz zaman değiştirebilirsiniz.
-Telefonunuzun ayarlarından reklam kimliğinizi sıfırlayabilir veya
-kişiselleştirilmiş reklamları kapatabilirsiniz.
+Veri Sorumlusu, Uygulama'nın özellikleri, kullanılan teknolojiler veya mevzuat değiştikçe işbu metni güncelleyebilir; güncel metin bu sayfada yayımlanır ve yayım tarihinde yürürlüğe girer. Uygulama'nın kullanımına ilişkin koşullar Kullanım Koşulları'nda düzenlenmiştir.
 
-**Kullanılan üçüncü taraf hizmetler:** Google AdMob ve Google'ın onay formu
-(reklamlar), Google ML Kit (metin tanıma), Avrupa Merkez Bankası verisini
-sunan Frankfurter ve ExchangeRate-API (kurlar), Google Play ve Apple App Store
-(satın alma, güncelleme, değerlendirme). Her biri kendi gizlilik politikasına
-tabidir.
-
-Şu anda uygulamada kendi adımıza kullanıcı analitiği veya takibi için ayrı bir
-hizmet kullanılmamaktadır; bu durum değişirse bu politika güncellenir.
-
-## Diller
-
-Uygulama telefonunuzun diliyle açılır (Türkçe, İngilizce, Almanca, Fransızca,
-İspanyolca, İtalyanca; başka bir dilde İngilizce). Dil seçimi bize gönderilmez.
-
-## Mağazalar
-
-Uygulama Google Play ve Apple App Store üzerinden dağıtılır. Uygulamayı
-değerlendirmeniz için gösterilen pencere ve (Android'de) uygulama içi güncelleme
-penceresi ilgili mağaza tarafından sağlanır; bu mağazaların hizmetleri
-Google'ın ve Apple'ın kendi gizlilik politikalarına tabidir.
-
-## Çocukların Gizliliği
-
-Uygulama çocuklara yönelik değildir. Hesap oluşturmak gerekmez; kişi adı
-girişi isteğe bağlıdır ve bu bilgiler cihazınızda kalır.
-
-## Bizimle İletişime Geçtiğinizde
-
-Bize e-posta gönderdiğinizde e-posta adresiniz ve mesajınız, sorunuzu
-yanıtlamak amacıyla kullanılır ve üçüncü kişilerle paylaşılmaz. E-postalar
-Google'ın Gmail hizmeti üzerinden alınır.
-
-## Haklarınız (KVKK ve diğer mevzuat)
-
-Bizimle e-posta yoluyla iletişime geçmeniz durumunda veri sorumlusu Berkco
-App Studio'dur. 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 11.
-maddesinde yer alan haklarınız ile (Avrupa Ekonomik Alanı ve Birleşik Krallık
-için) GDPR kapsamındaki erişim, düzeltme ve silme haklarınızla ilgili
-taleplerinizi aşağıdaki adrese iletebilirsiniz. Google veya Apple tarafından
-tutulan verilere ilişkin talepler için ilgili şirketin kendi araçlarını
-kullanabilirsiniz.
-
-## Gizlilik Politikasındaki Değişiklikler
-
-Bu Gizlilik Politikası, uygulamanın özelliklerinde veya kullanılan
-teknolojilerde değişiklik yapılması durumunda güncellenebilir. Güncel metin
-bu sayfada yayımlanır.
-
-## İletişim
-
-Bu Gizlilik Politikası hakkında sorularınız için bizimle iletişime
-geçebilirsiniz:
-
-Berkco App Studio
-E-posta: berkcoappstudio@gmail.com
-Destek sayfası: https://berkcoo.github.io/hesapnekadar/support/
+Berkco App Studio · berkcoappstudio@gmail.com · Destek: https://berkcoo.github.io/hesapnekadar/support/
 
 ---
 
-# Hesap Ne Kadar — Privacy Policy
+# Hesap Ne Kadar — Privacy Policy and Notice
 
-_Last updated: 25 October 2026_
+_Effective and last updated: 29 October 2026_
 
-This Privacy Policy explains how Hesap Ne Kadar, developed by Berkco App
-Studio, handles information. The app is distributed through **Google Play
-(Android)** and the **Apple App Store (iOS)**; this policy applies to the
-versions on both platforms. Differences between the platforms are described in the relevant sections.
+## 1. Controller and Scope
 
-**Data collection and use.** You don't need an account to use the app.
-Berkco App Studio does not collect or store personal data on its own servers.
-The app processes the information it needs for its core features on your
-device. Receipt images, recognised text, bill details and your shared accounts
-are not sent to Berkco App Studio automatically. Only if you choose to, a text
-email can be sent to us (see "Sending us a receipt" below). In addition,
-third-party services used in the app, such as Google AdMob, may process certain
-data for ad delivery and measurement in accordance with their own privacy
-policies (see "Ads" below).
+This notice applies to every version of the "Hesap Ne Kadar" mobile application (the "App") offered through Google Play (Android) and the Apple App Store (iOS). It is provided to meet the duty to inform under Article 10 of Turkish Law No. 6698 on the Protection of Personal Data ("KVKK") and Article 13 of Regulation (EU) 2016/679 ("GDPR").
 
-**Camera and receipt images.** The app uses your camera to read item names
-and prices from receipts. Text recognition uses Google ML Kit running on
-your device; receipt images and recognised text are not sent to Berkco App
-Studio. On Android the part of ML Kit that sends diagnostics to Google is
-switched off. On iOS, according to the data disclosure Google publishes, ML Kit
-may send diagnostics and usage-analytics data to Google, such as device and app
-information (device model, operating system version, app ID and version), an
-installation-specific identifier, performance metrics and error codes; that
-disclosure does not include receipt images or recognised text. This data is
-subject to Google's own privacy policy and does not reach Berkco App Studio.
-When you take a photo of a receipt, it is kept in the app's
-temporary folder and deleted after reading. Photos are not saved to your
-gallery. For receipts saved into shared accounts, no photo is kept; only the
-item names and amounts that were read.
-When you scan a long receipt by moving the phone down it, the text rows read
-from the camera are put together in the phone's memory only while scanning;
-they are not saved or sent.
+"Berkco App Studio" is the brand name under which Berk Sönmez develops and publishes the App as an individual developer; it is not a trade name or a registered company. Contact of the controller (the "Controller"): **berkcoappstudio@gmail.com**.
 
-**Sending us a receipt (optional).** When a receipt was read wrongly or the
-items do not add up to the receipt total, the app may offer "Send the
-receipt". It only works if you tap it: the text to be sent is shown on screen
-first, and nothing is sent until you confirm. The text opens ready in your email
-app and sending it is up to you (if there is no email app, the share menu
-opens).
+## 2. Principles
 
-The text contains: the receipt lines that carry an amount (and the line above
-each, since the item name is usually there), which items and amounts the app
-made of them, the total printed on the receipt, the corrections you made, the
-currency, the app version, the operating system (Android / iOS) and the
-language. **No photo of the receipt is sent.** The app tries to remove lines
-that could identify a person or a place, such as addresses, phone, card, tax
-and receipt numbers, email and web addresses, cashier and customer lines; this
-is an automatic filter, so please read the text before you send it. Because you
-send the email, your email address reaches us.
+No user account is required. Receipt images, recognised text, account and people's details and shared-account records are processed and stored on the User's device; the Controller does not access them and does not transfer them to its own servers. Data reaches the Controller only through reports the User chooses to send (Section 4). Processing carried out by third-party providers under their own responsibility is listed in Section 7.
 
-The purpose is to improve reading accuracy. The emails are used only for that
-purpose, are not shared with third parties, are kept in Google's Gmail service
-and are not used to build a profile of you. You can write to us to have them
-deleted.
+## 3. Data Processed on the Device
 
-**Backup and transfer (file).** Under Settings > "Backup and transfer" you can
-save your Shared Accounts (accounts, people's names, expenses, items read from
-receipts, payments and your budget) to a single file and import it on another
-phone from the same place. The file goes where you choose in the share menu
-(Files, email, your cloud drive and so on); it is not sent to Berkco App
-Studio. Where you share the file and with whom is up to you; since it contains
-names and expenses, keep it somewhere you trust. The file does not contain your
-Pro or Plus status or the free-use counter; it does not carry a purchase. When
-importing, records that are already there are not added again.
+**3.1. Receipt images and text recognition.** The App uses the device camera to read items and amounts on receipts. Text recognition runs on the device with Google ML Kit; the image and the recognised text are not sent to the Controller. A receipt photo is kept in the App's temporary area only while it is read, is deleted afterwards and is not saved to the gallery; anything left behind by an interruption is cleared each time the App starts. When a long receipt is scanned by moving the phone down it, the rows read are combined in device memory only while scanning and are neither stored nor sent. For a receipt saved into a shared account no photo is kept, only the item names and amounts read.
 
-**Local storage.** Details of the bill in progress (items, amounts, payments
-and, if you enter them, people's names) are kept in the app's private
-storage on your device so you can continue after the app closes. Entering
-names is optional. They are removed when the bill is settled, replaced or
-deleted from the home screen.
+**3.2. Account records.** The bill being split (items, amounts, payments and, if entered, names) is kept so that it can be resumed; Shared Accounts (account and people's names, expenses, items read from receipts, payments) and the monthly budget under Plus are kept in the App's private area until the User deletes them or removes the App. Entering names is optional. The operating system deletes this data when the App is uninstalled.
 
-Accounts you create in **Shared Accounts** (account names, people's names,
-expenses, items read from receipts, payments) and (with Plus) the monthly budget
-you set are kept in a private database on your device until you delete them. The calculations in the Monthly summary and Budget screens are made on your
-device. They are not sent to Berkco App Studio or accessed remotely by it. The operating system removes the app's local data
-when you uninstall the app.
+**3.3. Device backup.** On Android, if device backup is on, only the Shared Accounts database may be backed up to the User's Google account; receipt photos, caches and the bill in progress are not. On iOS, if iCloud or computer backup is on, App data may be included in Apple's backup. These backups are subject to the platform provider's policies.
 
-- **Android:** if the device backup is turned on, only the Shared Accounts
-  database file may be backed up to your Google account and transferred to a
-  new phone. Receipt photos, caches and the bill in progress are not backed up.
-- **iOS:** if iCloud or computer backup is turned on, the app's data may be
-  backed up by Apple's backup service.
+**3.4. Backup file.** The User may export Shared Accounts to a single file from Settings > "Backup and transfer". The file goes to the destination the User picks in the share menu and is not sent to the Controller. As it contains names and expenses, keeping it safe is the User's responsibility. Pro/Plus status and the free-use counter are not in the file.
 
-These backup services are subject to Google's and Apple's own privacy policies
-and do not reach Berkco App Studio.
+**3.5. Free-use counter and purchase status.** A single number showing how many free uses have been spent, with no personal or account information, is kept on the device and, on Android, may also be kept in Google Block Store so that reinstalling does not reset it. The fact that the User owns Pro/Plus and when it was last confirmed are kept on the device only.
 
-**Free-use counter.** Shared Accounts has a few free uses (currently three).
-A single number records how many have been used; it contains no name or
-account information. On Android this number is also kept in Google's Block
-Store service so that uninstalling and reinstalling the app does not reset the
-free uses; when Google backup is turned on it is handled by Google and does not
-reach Berkco App Studio. On iOS the number is kept in the app's own data.
+## 4. Reports Started by the User
 
-**Currency converter.** When you open the currency converter, current
-exchange rates are downloaded from the European Central Bank's reference
-rates (via the Frankfurter service) and from ExchangeRate-API. The request
-asks only for the rate list and contains no receipt, account or personal
-information. These services can see your device's IP address, as with any
-connection. Downloaded rates are kept on your device. Rates are for
-information only; your bank may apply a different rate.
+**4.1. Text report.** When a receipt was read wrongly or the items do not add up to its total, the App may offer "Send the receipt". A report is prepared only when the User uses this option; the text is shown on screen first, opens ready in the User's email app, and sending depends entirely on the User's confirmation. The text contains the receipt lines that carry an amount (and the line above each), the items and amounts the App derived from them, the receipt total, the User's corrections, the currency, the App version, the operating system and the language. Lines that could identify a person or place, such as address, phone, card, tax or receipt numbers, email and cashier lines, are filtered out automatically; the filter is automatic and cannot be guaranteed complete, so reviewing the text before sending is recommended. Because the User sends the email, the User's email address reaches the Controller. A report depends on the User accepting the declaration shown in the App; no report is prepared without that acceptance. The accepted declaration is placed inside the email; a report that does not contain it, or from which it has been deleted or altered, is not processed and is deleted.
 
-**Purchases (Pro and Plus).** You can try Shared Accounts for free. After the
-free uses are spent, there are two options to keep adding new accounts and
-expenses:
+**4.2. No photos accepted.** The Controller does not ask for or accept receipt photos or images; for error analysis the User is only expected to send the text output the App read (the lines prepared by "Send the receipt") and a written note of where the error is (which line or amount was read wrongly). Because the report is sent by email, if the User adds a photo or other personal data to it, the responsibility arising from that addition, subject to mandatory law, rests entirely with the User and the Controller accepts none. An image so added is not used in error analysis, is not passed to third parties or AI-assisted tools, and is deleted within 30 days at the latest. Not sending a photo does not affect use of the App in any way.
 
-- **Pro:** a one-time purchase (not a subscription). It includes unlimited
-  Shared Accounts and no ads.
-- **Plus:** a monthly subscription. It includes everything in Pro plus Monthly
-  summary and Budget (and similar features added later). Pro owners are offered a
-  1-month free trial of Plus (once per store account; the store decides
-  eligibility). The subscription renews automatically unless cancelled at least
-  24 hours before the end of the period; payment is charged to your store
-  account when you confirm the purchase, and you can cancel at any time in your
-  Google Play or App Store account settings.
+**4.3. Legal basis, retention and deletion.** Data under Section 4 is processed on the basis of explicit consent given by the User sending the report (KVKK Art. 5/1; GDPR Art. 6(1)(a)), for detecting and fixing errors. The report text is deleted within 12 months after the analysis is completed, and an image attached by mistake within 30 days. The report text may be examined with software development tools, including AI-assisted tools, during error analysis; the providers of such tools may be located abroad, and the Controller tries to remove information that could identify a person before passing the text to them. The User may withdraw consent and request deletion at any time. Emails are received and kept in Google's email service (Gmail); access is limited to the Controller.
 
-The purchase is made through Google Play (Android) or the App Store (iOS); the
-price is shown in the store for your country, and your payment details are
-processed by those stores and do not reach Berkco App Studio.
+## 5. Purposes and Legal Bases
 
-Pro and Plus are tied to your store account (Apple ID or Google account). When
-you change phones or delete and reinstall the app, the app finds your purchase
-from the store when it starts with the same account, and shows no sign-in screen
-for that; if it does not, you can ask the store again with "Restore purchase" in
-Settings or on the plans page (on iOS your Apple ID password may be asked). No
-account of ours is needed. The app keeps the fact that you own Pro and Plus, and
-when it was last confirmed, only on your device; it is not sent to Berkco App
-Studio.
+| Activity | Purpose | Legal basis |
+|---|---|---|
+| On-device receipt reading and account records | Providing the App's functions | The Controller has no access, so does not process this data itself; stated for transparency |
+| Error report (Section 4) | Detecting and fixing software errors | Explicit consent (KVKK Art. 5/1; GDPR Art. 6(1)(a)) |
+| Correspondence with the User | Answering requests and questions | Legitimate interest (KVKK Art. 5/2-f; GDPR Art. 6(1)(f)); handling the request |
+| Purchases and subscriptions | Providing Pro/Plus | Performance of the contract; the transaction is carried out by the relevant store |
+| Showing ads | Ad delivery and measurement | The provider's own responsibility; in the EEA, the United Kingdom and Switzerland, the User's choice in the consent form |
 
-**Sharing.** When you choose to share a bill summary (or a settle-up
-suggestion), the text goes to the app you pick from your device's share menu and
-is then subject to that app's own terms.
+## 6. Transfers and Transfers Abroad
 
-**Device permissions.**
+The Controller does not sell, rent or share personal data with third parties for marketing. The providers listed in Section 7, when they obtain data directly from the device, act under their own policies and mostly as independent controllers; their servers may be outside Türkiye, and any such transfer is carried out by the provider in accordance with Article 9 of the KVKK and Chapter V of the GDPR. Data sent by email under Section 4 reaches the Controller through email infrastructure that may be located abroad; the User accepts this by sending the report personally.
 
-- **Camera:** to read receipts, only while you scan.
-- **Internet:** to download exchange rates, to show ads and to check your
-  subscription with the store (on Android, the internet and network-state
-  permissions). Your receipts, photos and account
-  details are not sent over that connection.
-- **Purchases:** on Android, the Google Play billing permission (to buy
-  Pro and Plus). On iOS no separate permission is needed for this.
-- **Advertising ID:** the Google advertising ID on Android (you can reset it or
-  turn off personalisation in your phone's settings at any time).
-- **Ad services and background permissions (Android):** the ads SDK and its
-  helper libraries add Android's ad-services permissions (advertising ID, ad
-  measurement and interest topics: ACCESS_ADSERVICES) and the permissions needed
-  for background work (WAKE_LOCK, FOREGROUND_SERVICE) to the app. They are for
-  serving and measuring ads and for technical background tasks; on Android this
-  information is subject to Google's ad services and does not reach Berkco App
-  Studio.
-- **Tracking (iOS only):** before the first ad is requested, the app shows
-  Apple's "Tracking" prompt. If you allow it, your advertising identifier
-  (IDFA) may be used by ad partners to personalise and measure ads; Apple
-  defines this as "tracking". If you decline, ads may still be shown but that
-  identifier is not used, and the app works the same. You can change your choice
-  at any time in iOS Settings > Privacy & Security > Tracking.
+## 7. Third-Party Service Providers
 
-**Ads and third-party services.** **Hesap Ne Kadar contains ads.** The app
-shows ads through Google AdMob. An ad appears as a
-full-screen (interstitial) ad when all payments of a bill are completed, at most
-once every two minutes; it does not appear when the app opens, while you scan a
-receipt or split a bill, or in Shared Accounts or the currency converter. Pro
-and Plus show no ads.
+The App uses the following services, each subject to its own policy and responsible for the data it handles:
 
-When an ad is shown, Google and its ad partners may process data such as the
-advertising ID, approximate location (from the IP address), and device and app
-interaction information to deliver and measure ads and to prevent abuse, in
-accordance with their own privacy policies. This data is not passed to Berkco
-App Studio. On iOS, ad measurement may also use Apple's SKAdNetwork system,
-which does not contain your identity. See
-https://policies.google.com/technologies/ads
+- **Google AdMob and Google User Messaging Platform (consent form):** ad delivery, measurement and management of consent choices.
+- **Google ML Kit:** on-device text recognition. On Android the component that sends diagnostics is disabled. On iOS, according to Google's published disclosure, diagnostics such as device and app information, an installation-specific identifier, performance metrics and error codes may be sent to Google; receipt images and recognised text are not part of that disclosure.
+- **Google Play and the Apple App Store:** distribution, payment, subscriptions, restoring purchases, updates and rating prompts. Payment details do not reach the Controller.
+- **Apple SKAdNetwork and App Tracking Transparency:** identity-free ad measurement and the tracking permission prompt on iOS.
+- **Frankfurter (European Central Bank rates) and ExchangeRate-API:** current rates are downloaded when the currency converter is opened. The request contains no receipt, account or personal information; these services can see the IP address as part of the connection. Rates are for information only.
+- **Google Gmail:** receiving the emails under Section 4.
+- **Software development and error-analysis tools (including AI-assisted tools):** examining the report text the User sends; providers may be located abroad.
 
-Users in the European Economic Area, the United Kingdom and Switzerland (and
-other regions where required) are shown Google's consent form; you can change
-your choice at any time under Settings > Ad privacy. You can also reset your
-advertising ID or turn off ad personalisation in your phone's settings.
+The Controller does not use a separate analytics or tracking service of its own; if that changes, this notice will be updated.
 
-**Third-party services used:** Google AdMob and Google's consent form (ads),
-Google ML Kit (text recognition), Frankfurter, which serves European Central
-Bank data, and ExchangeRate-API (exchange rates), Google Play and the Apple App
-Store (purchase, updates, rating). Each is subject to its own privacy policy.
+## 8. Ads and Choices
 
-At present the app does not use a separate analytics or user-tracking service
-of its own; if that changes, this policy will be updated.
+The App contains full-screen ads delivered through Google AdMob. An ad is shown when all payments of a bill are completed, at most once every two minutes; not when the App opens or on the receipt-reading, bill-splitting, Shared Accounts or currency converter screens. Pro and Plus show no ads. When an ad is shown, Google and its partners may process data such as the advertising ID, approximate location derived from the IP address and interaction information under their own policies (https://policies.google.com/technologies/ads). In the European Economic Area, the United Kingdom and Switzerland (and elsewhere where required) Google's consent form is shown; the choice can be changed under Settings > Ad privacy. On Android the advertising ID can be reset and personalisation turned off in the phone's settings. On iOS Apple's "Tracking" prompt is shown before the first ad; if declined, ads may still be shown but the advertising identifier (IDFA) is not used; the choice can be changed in iOS Settings > Privacy & Security > Tracking.
 
-**Languages.** The app opens in your phone's language (Turkish, English,
-German, French, Spanish, Italian; English for any other language). Your language
-is not sent to us.
+## 9. Permissions
 
-**Stores.** The app is distributed through Google Play and the Apple App Store.
-The rating prompt and (on Android) the in-app update prompt are shown by the
-respective store; those services are subject to Google's and Apple's own
-privacy policies.
+Camera (only while reading a receipt); internet (downloading rates, ads and subscription checks; receipts, photos and account details are not sent over it); on Android, Google Play billing, advertising ID and ad-services permissions and the background-work permissions added by the ads libraries (WAKE_LOCK, FOREGROUND_SERVICE).
 
-**Children's privacy.** The app is not directed at children. No account is
-needed; entering names is optional and they stay on your device.
+## 10. Security
 
-**If you contact us.** When you email us, your address and message are used
-to answer your question and are not shared with third parties. Email is
-received through Google's Gmail service. For such messages, Berkco App
-Studio is the data controller.
+The Controller seeks to apply reasonable technical and organisational measures in line with Article 12 of the KVKK and Article 32 of the GDPR. As data mainly stays on the User's device, the security of the device and its backups is the User's responsibility. The absolute security of any electronic medium cannot be guaranteed.
 
-**Your rights.** If you contact us by email, Berkco App Studio is the data
-controller. You can send requests concerning your rights under Turkish Law No.
-6698 (KVKK), Article 11, and (for the European Economic Area and the United
-Kingdom) your rights of access, correction and erasure under the GDPR to the
-address below. For data held by Google or Apple, you can use those companies'
-own tools.
+## 11. Your Rights and How to Apply
 
-**Changes.** This policy may be updated when the app's features or the
-technologies it uses change. The current version is published on this page.
+Under Article 11 of the KVKK you may learn whether your personal data is processed; request information if it has been; learn its purpose and whether it is used accordingly; know the third parties to whom it is transferred at home or abroad; request correction if incomplete or wrong; request deletion or destruction under Article 7; ask that these actions be notified to the third parties concerned; object to an outcome against you resulting from exclusively automated analysis; and claim compensation for damage caused by unlawful processing. Users in the EEA and the United Kingdom also have the GDPR rights of access, rectification, erasure, restriction, objection and portability; where processing rests on consent, it can be withdrawn without affecting the lawfulness of processing before withdrawal.
 
-**Contact.** Berkco App Studio — berkcoappstudio@gmail.com — Support page:
-https://berkcoo.github.io/hesapnekadar/support/
+Applications are sent to **berkcoappstudio@gmail.com** and answered within thirty days at the latest. The Controller may ask for reasonable information to verify identity. If an application is not answered or the answer is inadequate, you may complain to the Turkish Personal Data Protection Board (or the supervisory authority of your country). For data held by Google or Apple, use those companies' own tools.
+
+## 12. Children
+
+The App is not directed at children. No account is needed; entering names is optional and the data stays on the device.
+
+## 13. Changes and Contact
+
+The Controller may update this notice as the App's features, technologies or legislation change; the current text is published on this page and takes effect on publication. The terms of use of the App are set out in the Terms of Use.
+
+Berkco App Studio · berkcoappstudio@gmail.com · Support: https://berkcoo.github.io/hesapnekadar/support/
