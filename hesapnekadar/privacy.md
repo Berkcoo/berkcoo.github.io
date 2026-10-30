@@ -5,7 +5,7 @@ permalink: /hesapnekadar/privacy/
 
 # Hesap Ne Kadar — Gizlilik Politikası ve Aydınlatma Metni
 
-_Yürürlük ve son güncelleme: 29 Ekim 2026_
+_Yürürlük ve son güncelleme: 30 Ekim 2026_
 
 ## 1. Veri Sorumlusu ve Kapsam
 
@@ -60,6 +60,7 @@ Uygulama aşağıdaki hizmetlerden yararlanır; her biri kendi politikasına tab
 - **Google Play ve Apple App Store:** dağıtım, ödeme, abonelik, satın alma geri yükleme, güncelleme ve değerlendirme istemleri. Ödeme bilgileri Veri Sorumlusu'na ulaşmaz.
 - **Apple SKAdNetwork ve Uygulama İzleme Şeffaflığı:** iOS'ta kimlik içermeyen reklam ölçümü ve izleme izni istemi.
 - **Frankfurter (Avrupa Merkez Bankası kurları) ve ExchangeRate-API:** kur çeviricinin açılmasıyla güncel kurların indirilmesi. İstek fiş, hesap veya kişi bilgisi içermez; bu hizmetler bağlantı gereği IP adresini görebilir. Kurlar bilgi amaçlıdır.
+- **Hesap Ne Kadar sitesi (berkcoo.github.io, GitHub Pages):** uygulama açıldığında, günde en çok bir kez, fiş okuma kelime listesinin (yalnızca kelimelerden oluşan küçük bir metin dosyası) indirilmesi. İstek fiş, hesap veya kişi bilgisi içermez; GitHub bağlantı gereği IP adresini görebilir. Liste yalnızca fişlerin okunmasına yardım eder.
 - **Google Gmail:** madde 4 kapsamındaki e-postaların alınması.
 - **Yazılım geliştirme ve hata analizi araçları (yapay zekâ destekli araçlar dahil):** Kullanıcı'nın gönderdiği bildirim metninin incelenmesi; sağlayıcılar yurt dışında bulunabilir.
 
@@ -71,7 +72,7 @@ Uygulama, Google AdMob aracılığıyla tam ekran reklam içerir. Reklam, bir he
 
 ## 9. İzinler
 
-Kamera (yalnızca fiş okurken); internet (kur indirme, reklam ve abonelik doğrulaması; fiş, fotoğraf ve hesap bilgileri bu bağlantıyla iletilmez); Android'de Google Play faturalandırma, reklam kimliği ve reklam hizmetleri izinleri ile reklam kütüphanelerinin eklediği arka plan izinleri (WAKE_LOCK, FOREGROUND_SERVICE).
+Kamera (yalnızca fiş okurken); internet (kur indirme, fiş okuma kelime listesi indirme, reklam ve abonelik doğrulaması; fiş, fotoğraf ve hesap bilgileri bu bağlantıyla iletilmez); Android'de Google Play faturalandırma, reklam kimliği ve reklam hizmetleri izinleri ile reklam kütüphanelerinin eklediği arka plan izinleri (WAKE_LOCK, FOREGROUND_SERVICE).
 
 ## 10. Güvenlik
 
@@ -97,7 +98,7 @@ Berkco App Studio · berkcoappstudio@gmail.com · Destek: https://berkcoo.github
 
 # Hesap Ne Kadar — Privacy Policy and Notice
 
-_Effective and last updated: 29 October 2026_
+_Effective and last updated: 30 October 2026_
 
 ## 1. Controller and Scope
 
@@ -152,6 +153,7 @@ The App uses the following services, each subject to its own policy and responsi
 - **Google Play and the Apple App Store:** distribution, payment, subscriptions, restoring purchases, updates and rating prompts. Payment details do not reach the Controller.
 - **Apple SKAdNetwork and App Tracking Transparency:** identity-free ad measurement and the tracking permission prompt on iOS.
 - **Frankfurter (European Central Bank rates) and ExchangeRate-API:** current rates are downloaded when the currency converter is opened. The request contains no receipt, account or personal information; these services can see the IP address as part of the connection. Rates are for information only.
+- **Hesap Ne Kadar website (berkcoo.github.io, GitHub Pages):** when the app opens, at most once a day, the receipt-reading word list (a small text file made only of words) is downloaded. The request contains no receipt, account or personal information; GitHub can see the IP address as part of the connection. The list only helps read receipts.
 - **Google Gmail:** receiving the emails under Section 4.
 - **Software development and error-analysis tools (including AI-assisted tools):** examining the report text the User sends; providers may be located abroad.
 
@@ -163,7 +165,7 @@ The App contains full-screen ads delivered through Google AdMob. An ad is shown 
 
 ## 9. Permissions
 
-Camera (only while reading a receipt); internet (downloading rates, ads and subscription checks; receipts, photos and account details are not sent over it); on Android, Google Play billing, advertising ID and ad-services permissions and the background-work permissions added by the ads libraries (WAKE_LOCK, FOREGROUND_SERVICE).
+Camera (only while reading a receipt); internet (downloading rates, the receipt-reading word list, ads and subscription checks; receipts, photos and account details are not sent over it); on Android, Google Play billing, advertising ID and ad-services permissions and the background-work permissions added by the ads libraries (WAKE_LOCK, FOREGROUND_SERVICE).
 
 ## 10. Security
 
