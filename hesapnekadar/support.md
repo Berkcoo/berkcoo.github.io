@@ -21,9 +21,11 @@ Sorun bildirirken cihaz modelini, işletim sistemi sürümünü, uygulama sürü
 
 **Verilerim nerede?** Cihazınızda; uygulamayı silince silinir. Ayrıntılar gizlilik politikasında.
 
-**Telefon değiştiriyorum.** Ayarlar > "Yedek ve taşıma" ile Ortak Hesaplarınızı dosyaya kaydedin, yeni telefonda aynı yerden içe aktarın. Satın alımlarınız mağaza hesabınızla gelir ("Satın alımı geri yükle").
+**Telefon değiştiriyorum.** Ayarlar > "Yedek ve taşıma" ile Ortak Hesaplarınızı ve masraf fişi kayıtlarınızı dosyaya kaydedin, yeni telefonda aynı yerden içe aktarın. Masraf fişi fotoğrafları bu dosyada yoktur; gerekiyorsa önce ZIP rapor olarak paylaşıp saklayın. Satın alımlarınız mağaza hesabınızla gelir ("Satın alımı geri yükle").
 
-**Ortak Hesaplar ücretli mi?** Birkaç ücretsiz hakkı vardır (şu an üç). Sonrasında **Pro** (tek seferlik, abonelik değil; sınırsız ve reklamsız) ya da **Plus** (aylık abonelik; Pro'nun her şeyi + Aylık özet ve Bütçe; Pro sahiplerine 1 ay ücretsiz deneme) seçilir. Plus, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir. Fiyatı mağaza gösterir; aboneliği Google Play veya App Store hesap ayarlarından istediğiniz zaman iptal edebilirsiniz.
+**Ortak Hesaplar ücretli mi?** Birkaç ücretsiz hakkı vardır (şu an üç). Sonrasında **Pro** (tek seferlik, abonelik değil; sınırsız ve reklamsız) ya da **Plus** (aylık abonelik; Pro'nun her şeyi + Aylık özet, Bütçe ve sınırsız Masraf Fişleri; Pro sahiplerine 1 ay ücretsiz deneme) seçilir. Plus, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir. Fiyatı mağaza gösterir; aboneliği Google Play veya App Store hesap ayarlarından istediğiniz zaman iptal edebilirsiniz.
+
+**Masraf Fişleri ücretli mi?** İlk 5 fiş herkese ücretsizdir; daha fazla fiş eklemek için Plus gerekir. Kayıtlı fişleri görmek, düzeltmek, silmek ve rapor almak açık kalır. Fotoğraflar ve şirket şablonları telefonda, siz silene kadar saklanır; raporlar yalnızca siz paylaşırsanız telefondan çıkar.
 
 **Reklamlar nerede çıkar?** Pro ve Plus'ta reklam yoktur. Diğerlerinde bir hesabın tüm ödemeleri bitince tam ekran, en çok iki dakikada bir çıkar. Avrupa'da onay formu gösterilir; tercih Ayarlar > Reklam gizliliği'nde.
 
@@ -57,9 +59,11 @@ When you report a problem, include your device model, operating system version, 
 
 **Where is my data?** On your device; uninstalling the app removes it. Details are in the privacy policy.
 
-**I am changing phones.** Under Settings > "Backup and transfer", save your Shared Accounts to a file and import it in the same place on the new phone. Your purchases come with your store account ("Restore purchase").
+**I am changing phones.** Under Settings > "Backup and transfer", save your Shared Accounts and expense receipt records to a file and import it in the same place on the new phone. Expense receipt photos are not in that file; if you need them, share a ZIP report first and keep it. Your purchases come with your store account ("Restore purchase").
 
-**Are Shared Accounts paid?** There are a few free uses (currently three). After that you choose **Pro** (one-time, not a subscription; unlimited and no ads) or **Plus** (monthly subscription; everything in Pro plus Monthly summary and Budget; Pro owners get a 1-month free trial). Plus renews automatically unless cancelled at least 24 hours before the period ends. The store shows the price; you can cancel any time in your Google Play or App Store account settings.
+**Are Shared Accounts paid?** There are a few free uses (currently three). After that you choose **Pro** (one-time, not a subscription; unlimited and no ads) or **Plus** (monthly subscription; everything in Pro plus Monthly summary, Budget and unlimited Expense receipts; Pro owners get a 1-month free trial). Plus renews automatically unless cancelled at least 24 hours before the period ends. The store shows the price; you can cancel any time in your Google Play or App Store account settings.
+
+**Are Expense receipts paid?** The first 5 receipts are free for everyone; adding more needs Plus. Viewing, fixing, deleting and reporting kept receipts stay open. Photos and company templates are kept on the phone until you delete them; reports leave the phone only when you share them.
 
 **Where do ads appear?** Pro and Plus show none. Otherwise a full-screen ad appears when all payments of a bill are completed, at most once every two minutes. Users in Europe are shown a consent form; change it under Settings > Ad privacy.
 

@@ -5,7 +5,7 @@ permalink: /hesapnekadar/gizlilik/
 
 # Hesap Ne Kadar — Gizlilik Politikası ve Aydınlatma Metni
 
-_Yürürlük ve son güncelleme: 30 Ekim 2026_
+_Yürürlük ve son güncelleme: 11 Kasım 2026_
 
 ## 1. Veri Sorumlusu ve Kapsam
 
@@ -15,19 +15,23 @@ Uygulamayı geliştiren ve yayımlayan "Berkco App Studio", Berk Sönmez'in bire
 
 ## 2. Temel Esaslar
 
-Uygulamanın kullanılması için kullanıcı hesabı oluşturulması gerekmez. Fiş görüntüleri, okunan metinler, hesap ve kişi bilgileri ile ortak hesap kayıtları Kullanıcı'nın cihazında işlenir ve saklanır; Veri Sorumlusu bu verilere erişmez ve bunları kendi sunucularına aktarmaz. Veri Sorumlusu'na veri, yalnızca Kullanıcı'nın kendi iradesiyle ilettiği bildirimler (madde 4) yoluyla ulaşır. Üçüncü taraf hizmet sağlayıcıların kendi sorumluluğundaki işlemleri madde 7'de gösterilmiştir.
+Uygulamanın kullanılması için kullanıcı hesabı oluşturulması gerekmez. Fiş görüntüleri, okunan metinler, hesap ve kişi bilgileri, ortak hesap kayıtları ile masraf fişleri, fotoğrafları ve şirket şablonları Kullanıcı'nın cihazında işlenir ve saklanır; Veri Sorumlusu bu verilere erişmez ve bunları kendi sunucularına aktarmaz. Veri Sorumlusu'na veri, yalnızca Kullanıcı'nın kendi iradesiyle ilettiği bildirimler (madde 4) yoluyla ulaşır. Üçüncü taraf hizmet sağlayıcıların kendi sorumluluğundaki işlemleri madde 7'de gösterilmiştir.
 
 ## 3. Cihaz İçinde İşlenen Veriler
 
-**3.1. Fiş görüntüsü ve metin tanıma.** Uygulama, fişteki ürün ve tutar bilgilerini okumak amacıyla cihaz kamerasını kullanır. Metin tanıma, cihaz üzerinde çalışan Google ML Kit ile gerçekleştirilir; görüntü ve tanınan metin Veri Sorumlusu'na iletilmez. Fiş fotoğrafı, uygulamanın geçici alanında yalnızca okuma süresince tutulur, okuma sonrasında silinir ve galeriye kaydedilmez; kesintiyle kalabilecek artıklar Uygulama'nın her açılışında temizlenir. Uzun bir fiş telefonun yukarıdan aşağı kaydırılmasıyla taranırken okunan satırlar yalnızca tarama süresince cihaz belleğinde birleştirilir; kaydedilmez ve iletilmez. Ortak hesaba kaydedilen fişte fotoğraf saklanmaz; yalnızca okunan ürün adları ve tutarlar saklanır.
+**3.1. Fiş görüntüsü ve metin tanıma.** Uygulama, fişteki ürün ve tutar bilgilerini okumak amacıyla cihaz kamerasını kullanır. Metin tanıma, cihaz üzerinde çalışan Google ML Kit ile gerçekleştirilir; görüntü ve tanınan metin Veri Sorumlusu'na iletilmez. Fiş fotoğrafı, uygulamanın geçici alanında yalnızca okuma süresince tutulur, okuma sonrasında silinir (Kullanıcı'nın Masraf Fişleri'ne kaydettiği fişler hariç, bkz. madde 3.6) ve galeriye kaydedilmez; kesintiyle kalabilecek artıklar Uygulama'nın her açılışında temizlenir. Uzun bir fiş telefonun yukarıdan aşağı kaydırılmasıyla taranırken okunan satırlar yalnızca tarama süresince cihaz belleğinde birleştirilir; kaydedilmez ve iletilmez. Ortak hesaba kaydedilen fişte fotoğraf saklanmaz; yalnızca okunan ürün adları ve tutarlar saklanır.
 
 **3.2. Hesap kayıtları.** Bölüştürülmekte olan hesap (ürünler, tutarlar, ödemeler ve girilmişse kişi adları) kaldığı yerden devam edilebilmesi için; Ortak Hesaplar (hesap ve kişi adları, harcamalar, fişlerden okunan ürünler, ödemeler) ile Plus kapsamındaki aylık bütçe ise Kullanıcı silene veya Uygulama cihazdan kaldırılana kadar cihazdaki uygulamaya özel alanda saklanır. Kişi adı girilmesi isteğe bağlıdır. Uygulama kaldırıldığında bu veriler işletim sistemi tarafından silinir.
 
-**3.3. Cihaz yedeği.** Android'de cihaz yedeği etkinse yalnızca Ortak Hesaplar veritabanı Kullanıcı'nın Google hesabına yedeklenebilir; fiş fotoğrafları, önbellek ve bölüştürülmekte olan hesap yedeklenmez. iOS'ta iCloud veya bilgisayar yedeği etkinse Uygulama verileri Apple'ın yedekleme hizmeti kapsamında yedeklenebilir. Bu yedekler ilgili platform sağlayıcısının politikalarına tabidir.
+**3.3. Cihaz yedeği.** Android'de cihaz yedeği etkinse yalnızca Ortak Hesaplar ve masraf fişi kayıtlarını içeren veritabanı Kullanıcı'nın Google hesabına yedeklenebilir; fiş fotoğrafları, şirket şablonları, önbellek ve bölüştürülmekte olan hesap yedeklenmez. iOS'ta iCloud veya bilgisayar yedeği etkinse Uygulama verileri (masraf fişi fotoğrafları ve şirket şablonları dahil) Apple'ın yedekleme hizmeti kapsamında yedeklenebilir. Bu yedekler ilgili platform sağlayıcısının politikalarına tabidir.
 
-**3.4. Yedek dosyası.** Kullanıcı, Ayarlar > "Yedek ve taşıma" bölümünden Ortak Hesaplarını tek bir dosyaya aktarabilir. Dosya, Kullanıcı'nın paylaşım menüsünde seçtiği hedefe iletilir; Veri Sorumlusu'na gönderilmez. Dosya kişi adları ve harcama bilgileri içerdiğinden güvenli bir yerde saklanması Kullanıcı'nın sorumluluğundadır. Pro/Plus durumu ve ücretsiz kullanım sayacı dosyada yer almaz.
+**3.4. Yedek dosyası.** Kullanıcı, Ayarlar > "Yedek ve taşıma" bölümünden Ortak Hesaplarını ve masraf fişi kayıtlarını (fotoğraflar hariç) tek bir dosyaya aktarabilir. Dosya, Kullanıcı'nın paylaşım menüsünde seçtiği hedefe iletilir; Veri Sorumlusu'na gönderilmez. Dosya kişi adları, harcama ve masraf bilgileri içerdiğinden güvenli bir yerde saklanması Kullanıcı'nın sorumluluğundadır. Pro/Plus durumu ve ücretsiz kullanım sayacı dosyada yer almaz.
 
-**3.5. Ücretsiz kullanım sayacı ve satın alma durumu.** Kaç ücretsiz hakkın kullanıldığını gösteren tek bir sayı, kişi veya hesap bilgisi içermeksizin cihazda tutulur; Android'de Uygulama yeniden kurulduğunda sıfırlanmaması amacıyla ayrıca Google Block Store hizmetinde saklanabilir. Pro/Plus sahipliği bilgisi ve son doğrulama zamanı yalnızca cihazda tutulur.
+**3.5. Ücretsiz kullanım sayacı ve satın alma durumu.** Ortak Hesaplar ve Masraf Fişleri için kaç ücretsiz hakkın kullanıldığını gösteren sayılar, kişi veya hesap bilgisi içermeksizin cihazda tutulur; Android'de Ortak Hesaplar sayacı, Uygulama yeniden kurulduğunda sıfırlanmaması amacıyla ayrıca Google Block Store hizmetinde saklanabilir. Pro/Plus sahipliği bilgisi ve son doğrulama zamanı yalnızca cihazda tutulur.
+
+**3.6. Masraf Fişleri.** Kullanıcı'nın Masraf Fişleri bölümüne kaydettiği fişler (tarih, işletme, tutar, KDV satırları, vergi numarası, şehir, belge türü, kategori, kişi sayısı ve not) ile fotoğrafları, Kullanıcı silene veya Uygulama cihazdan kaldırılana kadar cihazdaki uygulamaya özel alanda saklanır ve galeriye kaydedilmez. Fiş fotoğrafı, cihazın sistem belge tarayıcısıyla (iOS'ta Apple VisionKit, Android'de Google Play hizmetlerindeki Google ML Kit belge tarayıcısı) çekilir; tarayıcı fişin kenarlarını bulur ve görüntüyü düzeltir. Tarayıcı kullanılamazsa Uygulama'nın kendi kamera ekranı açılır. Fişten okunan bilgiler yalnızca öneridir; Kullanıcı kaydetmeden önce kontrol eder.
+
+**3.7. Raporlar ve şirket şablonları.** Excel, PDF ve ZIP raporları cihazda hazırlanır; cihazdan yalnızca Kullanıcı'nın paylaşım menüsünde seçtiği hedefe gönderilir ve Veri Sorumlusu'na iletilmez. Paylaşım için oluşturulan geçici kopyalar Uygulama'nın geçici alanından temizlenir. Kullanıcı'nın sistemin dosya seçicisiyle eklediği şirket Excel şablonunun bir kopyası, Kullanıcı silene veya Uygulama kaldırılana kadar cihazdaki uygulamaya özel alanda saklanır; şablon cihazda doldurulur ve Veri Sorumlusu'na iletilmez.
 
 ## 4. Kullanıcı'nın Başlattığı Hata Bildirimi
 
@@ -41,7 +45,7 @@ Uygulamanın kullanılması için kullanıcı hesabı oluşturulması gerekmez. 
 
 | Faaliyet | Amaç | Hukuki sebep |
 |---|---|---|
-| Cihaz içi fiş okuma ve hesap kayıtları | Uygulama işlevlerinin sunulması | Veri Sorumlusu'nun erişimi bulunmadığından kendisince işlenmez; şeffaflık amacıyla belirtilmiştir |
+| Cihaz içi fiş okuma, hesap ve masraf kayıtları, raporlar | Uygulama işlevlerinin sunulması | Veri Sorumlusu'nun erişimi bulunmadığından kendisince işlenmez; şeffaflık amacıyla belirtilmiştir |
 | Hata bildirimi (madde 4) | Yazılım hatalarının tespiti ve giderimi | Açık rıza (KVKK m. 5/1; GDPR m. 6/1-a) |
 | Kullanıcı ile yazışma | Talep ve soruların yanıtlanması | Meşru menfaat (KVKK m. 5/2-f; GDPR m. 6/1-f); talebin yerine getirilmesi |
 | Satın alma ve abonelik | Pro/Plus sunulması | Sözleşmenin ifası; işlem ilgili mağaza tarafından yürütülür |
@@ -57,6 +61,7 @@ Uygulama aşağıdaki hizmetlerden yararlanır; her biri kendi politikasına tab
 
 - **Google AdMob ve Google Kullanıcı Mesajlaşma Platformu (onay formu):** reklam sunumu, ölçümü ve onay tercihlerinin yönetimi.
 - **Google ML Kit:** cihaz üzerinde metin tanıma. Android'de teşhis verisi gönderen bileşen devre dışıdır. iOS'ta Google'ın yayımladığı bildirime göre cihaz ve uygulama bilgisi, kuruluma özgü bir tanımlayıcı, performans ölçümleri ve hata kodları gibi teşhis verileri Google'a iletilebilir; fiş görüntüsü veya tanınan metin bu bildirimde yer almaz.
+- **Apple VisionKit (iOS) ve Google ML Kit belge tarayıcısı (Android, Google Play hizmetleri):** Masraf Fişleri'nde fiş fotoğrafının çekilmesi, kenarlarının bulunması ve düzeltilmesi (madde 3.6). Tarama cihazda yapılır; Android'deki tarayıcı Google Play hizmetleri içinde çalışır ve Google'ın politikasına tabidir.
 - **Google Play ve Apple App Store:** dağıtım, ödeme, abonelik, satın alma geri yükleme, güncelleme ve değerlendirme istemleri. Ödeme bilgileri Veri Sorumlusu'na ulaşmaz.
 - **Apple SKAdNetwork ve Uygulama İzleme Şeffaflığı:** iOS'ta kimlik içermeyen reklam ölçümü ve izleme izni istemi.
 - **Frankfurter (Avrupa Merkez Bankası kurları) ve ExchangeRate-API:** kur çeviricinin açılmasıyla güncel kurların indirilmesi. İstek fiş, hesap veya kişi bilgisi içermez; bu hizmetler bağlantı gereği IP adresini görebilir. Kurlar bilgi amaçlıdır.
@@ -68,11 +73,11 @@ Veri Sorumlusu, kendi adına ayrı bir kullanıcı analitiği veya izleme hizmet
 
 ## 8. Reklamlar ve Tercihler
 
-Uygulama, Google AdMob aracılığıyla tam ekran reklam içerir. Reklam, bir hesabın tüm ödemeleri tamamlandığında ve en çok iki dakikada bir gösterilir; uygulama açılışında, fiş okuma, hesap bölme, Ortak Hesaplar ve kur çevirici ekranlarında gösterilmez. Pro ve Plus kapsamında reklam gösterilmez. Reklam gösterildiğinde Google ve iş ortakları; reklam kimliği, IP adresinden türetilen yaklaşık konum ve etkileşim bilgisi gibi verileri kendi politikaları çerçevesinde işleyebilir (https://policies.google.com/technologies/ads). Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de (ve gereken diğer yerlerde) Google'ın onay formu gösterilir; tercih Ayarlar > Reklam gizliliği'nden değiştirilebilir. Android'de reklam kimliği telefon ayarlarından sıfırlanabilir veya kişiselleştirme kapatılabilir. iOS'ta ilk reklamdan önce Apple'ın "İzleme" istemi gösterilir; reddedilmesi hâlinde reklamlar gösterilebilir ancak reklam tanımlayıcısı (IDFA) kullanılmaz; tercih iOS Ayarlar > Gizlilik ve Güvenlik > İzleme bölümünden değiştirilebilir.
+Uygulama, Google AdMob aracılığıyla tam ekran reklam içerir. Reklam, bir hesabın tüm ödemeleri tamamlandığında ve en çok iki dakikada bir gösterilir; uygulama açılışında, fiş okuma, hesap bölme, Ortak Hesaplar, Masraf Fişleri ve kur çevirici ekranlarında gösterilmez. Pro ve Plus kapsamında reklam gösterilmez. Reklam gösterildiğinde Google ve iş ortakları; reklam kimliği, IP adresinden türetilen yaklaşık konum ve etkileşim bilgisi gibi verileri kendi politikaları çerçevesinde işleyebilir (https://policies.google.com/technologies/ads). Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de (ve gereken diğer yerlerde) Google'ın onay formu gösterilir; tercih Ayarlar > Reklam gizliliği'nden değiştirilebilir. Android'de reklam kimliği telefon ayarlarından sıfırlanabilir veya kişiselleştirme kapatılabilir. iOS'ta ilk reklamdan önce Apple'ın "İzleme" istemi gösterilir; reddedilmesi hâlinde reklamlar gösterilebilir ancak reklam tanımlayıcısı (IDFA) kullanılmaz; tercih iOS Ayarlar > Gizlilik ve Güvenlik > İzleme bölümünden değiştirilebilir.
 
 ## 9. İzinler
 
-Kamera (yalnızca fiş okurken); internet (kur indirme, fiş okuma kelime listesi indirme, reklam ve abonelik doğrulaması; fiş, fotoğraf ve hesap bilgileri bu bağlantıyla iletilmez); Android'de Google Play faturalandırma, reklam kimliği ve reklam hizmetleri izinleri ile reklam kütüphanelerinin eklediği arka plan izinleri (WAKE_LOCK, FOREGROUND_SERVICE).
+Kamera (yalnızca fiş okurken ve fiş fotoğrafı çekerken); sistemin dosya seçicisi (yalnızca Kullanıcı'nın seçtiği şablon veya yedek dosyası için; genel dosya veya galeri izni istenmez); internet (kur indirme, fiş okuma kelime listesi indirme, reklam ve abonelik doğrulaması; fiş, fotoğraf ve hesap bilgileri bu bağlantıyla iletilmez); Android'de Google Play faturalandırma, reklam kimliği ve reklam hizmetleri izinleri ile reklam kütüphanelerinin eklediği arka plan izinleri (WAKE_LOCK, FOREGROUND_SERVICE).
 
 ## 10. Güvenlik
 
@@ -98,7 +103,7 @@ Berkco App Studio · berkcoappstudio@gmail.com · Destek: https://berkcoo.github
 
 # Hesap Ne Kadar — Privacy Policy and Notice
 
-_Effective and last updated: 30 October 2026_
+_Effective and last updated: 11 November 2026_
 
 ## 1. Controller and Scope
 
@@ -108,19 +113,23 @@ This notice applies to every version of the "Hesap Ne Kadar" mobile application 
 
 ## 2. Principles
 
-No user account is required. Receipt images, recognised text, account and people's details and shared-account records are processed and stored on the User's device; the Controller does not access them and does not transfer them to its own servers. Data reaches the Controller only through reports the User chooses to send (Section 4). Processing carried out by third-party providers under their own responsibility is listed in Section 7.
+No user account is required. Receipt images, recognised text, account and people's details, shared-account records, and expense receipts with their photos and company templates are processed and stored on the User's device; the Controller does not access them and does not transfer them to its own servers. Data reaches the Controller only through reports the User chooses to send (Section 4). Processing carried out by third-party providers under their own responsibility is listed in Section 7.
 
 ## 3. Data Processed on the Device
 
-**3.1. Receipt images and text recognition.** The App uses the device camera to read items and amounts on receipts. Text recognition runs on the device with Google ML Kit; the image and the recognised text are not sent to the Controller. A receipt photo is kept in the App's temporary area only while it is read, is deleted afterwards and is not saved to the gallery; anything left behind by an interruption is cleared each time the App starts. When a long receipt is scanned by moving the phone down it, the rows read are combined in device memory only while scanning and are neither stored nor sent. For a receipt saved into a shared account no photo is kept, only the item names and amounts read.
+**3.1. Receipt images and text recognition.** The App uses the device camera to read items and amounts on receipts. Text recognition runs on the device with Google ML Kit; the image and the recognised text are not sent to the Controller. A receipt photo is kept in the App's temporary area only while it is read, is deleted afterwards (except receipts the User keeps in Expense receipts, see Section 3.6) and is not saved to the gallery; anything left behind by an interruption is cleared each time the App starts. When a long receipt is scanned by moving the phone down it, the rows read are combined in device memory only while scanning and are neither stored nor sent. For a receipt saved into a shared account no photo is kept, only the item names and amounts read.
 
 **3.2. Account records.** The bill being split (items, amounts, payments and, if entered, names) is kept so that it can be resumed; Shared Accounts (account and people's names, expenses, items read from receipts, payments) and the monthly budget under Plus are kept in the App's private area until the User deletes them or removes the App. Entering names is optional. The operating system deletes this data when the App is uninstalled.
 
-**3.3. Device backup.** On Android, if device backup is on, only the Shared Accounts database may be backed up to the User's Google account; receipt photos, caches and the bill in progress are not. On iOS, if iCloud or computer backup is on, App data may be included in Apple's backup. These backups are subject to the platform provider's policies.
+**3.3. Device backup.** On Android, if device backup is on, only the database holding Shared Accounts and expense receipt records may be backed up to the User's Google account; receipt photos, company templates, caches and the bill in progress are not. On iOS, if iCloud or computer backup is on, App data (including expense receipt photos and company templates) may be included in Apple's backup. These backups are subject to the platform provider's policies.
 
-**3.4. Backup file.** The User may export Shared Accounts to a single file from Settings > "Backup and transfer". The file goes to the destination the User picks in the share menu and is not sent to the Controller. As it contains names and expenses, keeping it safe is the User's responsibility. Pro/Plus status and the free-use counter are not in the file.
+**3.4. Backup file.** The User may export Shared Accounts and expense receipt records (without photos) to a single file from Settings > "Backup and transfer". The file goes to the destination the User picks in the share menu and is not sent to the Controller. As it contains names, expenses and expense receipt details, keeping it safe is the User's responsibility. Pro/Plus status and the free-use counter are not in the file.
 
-**3.5. Free-use counter and purchase status.** A single number showing how many free uses have been spent, with no personal or account information, is kept on the device and, on Android, may also be kept in Google Block Store so that reinstalling does not reset it. The fact that the User owns Pro/Plus and when it was last confirmed are kept on the device only.
+**3.5. Free-use counter and purchase status.** Numbers showing how many free uses of Shared Accounts and Expense receipts have been spent, with no personal or account information, are kept on the device; on Android the Shared Accounts number may also be kept in Google Block Store so that reinstalling does not reset it. The fact that the User owns Pro/Plus and when it was last confirmed are kept on the device only.
+
+**3.6. Expense receipts.** Receipts the User keeps in Expense receipts (date, merchant, amount, VAT lines, tax number, city, document type, category, number of people and note) and their photos are kept in the App's private area on the device until the User deletes them or removes the App, and are not saved to the gallery. The receipt photo is taken with the device's system document scanner (Apple VisionKit on iOS, the Google ML Kit document scanner in Google Play services on Android), which finds the receipt's edges and straightens the image. If the scanner is not available, the App's own camera screen opens. Details read from the receipt are suggestions only; the User checks them before saving.
+
+**3.7. Reports and company templates.** Excel, PDF and ZIP reports are created on the device; they leave it only to the destination the User picks in the share menu and are not sent to the Controller. Temporary copies made for sharing are cleared from the App's temporary area. A copy of a company Excel template the User adds through the system file picker is kept in the App's private area on the device until the User deletes it or removes the App; the template is filled on the device and is not sent to the Controller.
 
 ## 4. Reports Started by the User
 
@@ -134,7 +143,7 @@ No user account is required. Receipt images, recognised text, account and people
 
 | Activity | Purpose | Legal basis |
 |---|---|---|
-| On-device receipt reading and account records | Providing the App's functions | The Controller has no access, so does not process this data itself; stated for transparency |
+| On-device receipt reading, account and expense records, reports | Providing the App's functions | The Controller has no access, so does not process this data itself; stated for transparency |
 | Error report (Section 4) | Detecting and fixing software errors | Explicit consent (KVKK Art. 5/1; GDPR Art. 6(1)(a)) |
 | Correspondence with the User | Answering requests and questions | Legitimate interest (KVKK Art. 5/2-f; GDPR Art. 6(1)(f)); handling the request |
 | Purchases and subscriptions | Providing Pro/Plus | Performance of the contract; the transaction is carried out by the relevant store |
@@ -150,6 +159,7 @@ The App uses the following services, each subject to its own policy and responsi
 
 - **Google AdMob and Google User Messaging Platform (consent form):** ad delivery, measurement and management of consent choices.
 - **Google ML Kit:** on-device text recognition. On Android the component that sends diagnostics is disabled. On iOS, according to Google's published disclosure, diagnostics such as device and app information, an installation-specific identifier, performance metrics and error codes may be sent to Google; receipt images and recognised text are not part of that disclosure.
+- **Apple VisionKit (iOS) and the Google ML Kit document scanner (Android, Google Play services):** taking the receipt photo in Expense receipts, finding its edges and straightening it (Section 3.6). Scanning runs on the device; on Android the scanner runs inside Google Play services and is subject to Google's policy.
 - **Google Play and the Apple App Store:** distribution, payment, subscriptions, restoring purchases, updates and rating prompts. Payment details do not reach the Controller.
 - **Apple SKAdNetwork and App Tracking Transparency:** identity-free ad measurement and the tracking permission prompt on iOS.
 - **Frankfurter (European Central Bank rates) and ExchangeRate-API:** current rates are downloaded when the currency converter is opened. The request contains no receipt, account or personal information; these services can see the IP address as part of the connection. Rates are for information only.
@@ -161,11 +171,11 @@ The Controller does not use a separate analytics or tracking service of its own;
 
 ## 8. Ads and Choices
 
-The App contains full-screen ads delivered through Google AdMob. An ad is shown when all payments of a bill are completed, at most once every two minutes; not when the App opens or on the receipt-reading, bill-splitting, Shared Accounts or currency converter screens. Pro and Plus show no ads. When an ad is shown, Google and its partners may process data such as the advertising ID, approximate location derived from the IP address and interaction information under their own policies (https://policies.google.com/technologies/ads). In the European Economic Area, the United Kingdom and Switzerland (and elsewhere where required) Google's consent form is shown; the choice can be changed under Settings > Ad privacy. On Android the advertising ID can be reset and personalisation turned off in the phone's settings. On iOS Apple's "Tracking" prompt is shown before the first ad; if declined, ads may still be shown but the advertising identifier (IDFA) is not used; the choice can be changed in iOS Settings > Privacy & Security > Tracking.
+The App contains full-screen ads delivered through Google AdMob. An ad is shown when all payments of a bill are completed, at most once every two minutes; not when the App opens or on the receipt-reading, bill-splitting, Shared Accounts, Expense receipts or currency converter screens. Pro and Plus show no ads. When an ad is shown, Google and its partners may process data such as the advertising ID, approximate location derived from the IP address and interaction information under their own policies (https://policies.google.com/technologies/ads). In the European Economic Area, the United Kingdom and Switzerland (and elsewhere where required) Google's consent form is shown; the choice can be changed under Settings > Ad privacy. On Android the advertising ID can be reset and personalisation turned off in the phone's settings. On iOS Apple's "Tracking" prompt is shown before the first ad; if declined, ads may still be shown but the advertising identifier (IDFA) is not used; the choice can be changed in iOS Settings > Privacy & Security > Tracking.
 
 ## 9. Permissions
 
-Camera (only while reading a receipt); internet (downloading rates, the receipt-reading word list, ads and subscription checks; receipts, photos and account details are not sent over it); on Android, Google Play billing, advertising ID and ad-services permissions and the background-work permissions added by the ads libraries (WAKE_LOCK, FOREGROUND_SERVICE).
+Camera (only while reading a receipt or taking a receipt photo); the system file picker (only for the template or backup file the User picks; no general file or photo library permission is requested); internet (downloading rates, the receipt-reading word list, ads and subscription checks; receipts, photos and account details are not sent over it); on Android, Google Play billing, advertising ID and ad-services permissions and the background-work permissions added by the ads libraries (WAKE_LOCK, FOREGROUND_SERVICE).
 
 ## 10. Security
 

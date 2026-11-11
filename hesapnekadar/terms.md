@@ -5,7 +5,7 @@ permalink: /hesapnekadar/terms/
 
 # Hesap Ne Kadar — Kullanım Koşulları
 
-_Yürürlük ve son güncelleme: 29 Ekim 2026_
+_Yürürlük ve son güncelleme: 11 Kasım 2026_
 
 ## 1. Taraflar ve Kapsam
 
@@ -21,7 +21,7 @@ Uygulama, fişlerdeki bilgileri otomatik okuyarak hesap bölüşümünü ve orta
 
 ## 4. Pro ve Plus
 
-Ortak Hesaplar'ın sınırlı sayıda ücretsiz kullanım hakkı vardır. **Pro**, tek seferlik satın almadır (abonelik değildir). **Plus**, aylık aboneliktir; Pro'nun kapsamını ve Aylık özet ile Bütçe özelliklerini içerir. Pro sahiplerine mağazanın belirlediği koşullarla 1 aylık ücretsiz Plus denemesi sunulabilir; deneme bitiminde, iptal edilmediği takdirde ücret mağaza hesabından tahsil edilir. Plus, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik olarak yenilenir. Fiyat, ödeme, iptal, iade ve cayma işlemleri ilgili mağaza (Google Play veya Apple App Store) tarafından, mağazanın koşulları ve geçerli tüketici mevzuatı çerçevesinde yürütülür; aboneliğin yönetimi mağaza hesabı ayarlarından yapılır. Satın alınan haklar mağaza hesabına bağlıdır ve "Satın alımı geri yükle" ile yeniden talep edilebilir. Plus aboneliği sona ererse yalnızca Plus'a özgü özellikler kapanır; Pro sahipliği korunur.
+Ortak Hesaplar'ın sınırlı sayıda ücretsiz kullanım hakkı vardır; Masraf Fişleri'nde ilk 5 fiş ücretsizdir. **Pro**, tek seferlik satın almadır (abonelik değildir). **Plus**, aylık aboneliktir; Pro'nun kapsamını, Aylık özet ile Bütçe özelliklerini ve sınırsız Masraf Fişleri'ni içerir. Pro sahiplerine mağazanın belirlediği koşullarla 1 aylık ücretsiz Plus denemesi sunulabilir; deneme bitiminde, iptal edilmediği takdirde ücret mağaza hesabından tahsil edilir. Plus, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik olarak yenilenir. Fiyat, ödeme, iptal, iade ve cayma işlemleri ilgili mağaza (Google Play veya Apple App Store) tarafından, mağazanın koşulları ve geçerli tüketici mevzuatı çerçevesinde yürütülür; aboneliğin yönetimi mağaza hesabı ayarlarından yapılır. Satın alınan haklar mağaza hesabına bağlıdır ve "Satın alımı geri yükle" ile yeniden talep edilebilir. Plus aboneliği sona ererse yalnızca Plus'a özgü özellikler kapanır; Pro sahipliği korunur ve kayıtlı masraf fişleri görüntülenebilir, düzeltilebilir, silinebilir ve raporlanabilir.
 
 ## 5. Kullanıcı Yükümlülükleri
 
@@ -51,7 +51,7 @@ berkcoappstudio@gmail.com
 
 # Hesap Ne Kadar — Terms of Use
 
-_Effective and last updated: 29 October 2026_
+_Effective and last updated: 11 November 2026_
 
 ## 1. Parties and Scope
 
@@ -67,7 +67,7 @@ The App is an aid that reads receipts automatically to make splitting a bill and
 
 ## 4. Pro and Plus
 
-Shared Accounts has a limited number of free uses. **Pro** is a one-time purchase (not a subscription). **Plus** is a monthly subscription that includes Pro and adds Monthly summary and Budget. Pro owners may be offered a 1-month free Plus trial on the store's terms; when the trial ends the fee is charged to the store account unless cancelled. Plus renews automatically unless cancelled at least 24 hours before the period ends. Price, payment, cancellation, refund and withdrawal are handled by the relevant store (Google Play or the Apple App Store) under that store's terms and applicable consumer law; subscriptions are managed in the store account settings. Purchased rights are tied to the store account and can be requested again with "Restore purchase". If Plus ends, only Plus-specific features close; Pro ownership is kept.
+Shared Accounts has a limited number of free uses; in Expense receipts the first 5 receipts are free. **Pro** is a one-time purchase (not a subscription). **Plus** is a monthly subscription that includes Pro and adds Monthly summary, Budget and unlimited Expense receipts. Pro owners may be offered a 1-month free Plus trial on the store's terms; when the trial ends the fee is charged to the store account unless cancelled. Plus renews automatically unless cancelled at least 24 hours before the period ends. Price, payment, cancellation, refund and withdrawal are handled by the relevant store (Google Play or the Apple App Store) under that store's terms and applicable consumer law; subscriptions are managed in the store account settings. Purchased rights are tied to the store account and can be requested again with "Restore purchase". If Plus ends, only Plus-specific features close; Pro ownership is kept, and kept expense receipts can still be viewed, corrected, deleted and reported.
 
 ## 5. User Obligations
 
