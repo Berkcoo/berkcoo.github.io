@@ -5,7 +5,7 @@ permalink: /hesapnekadar/privacy/
 
 # Hesap Ne Kadar — Gizlilik Politikası ve Aydınlatma Metni
 
-_Yürürlük ve son güncelleme: 11 Kasım 2026_
+_Yürürlük ve son güncelleme: 14 Kasım 2026_
 
 ## 1. Veri Sorumlusu ve Kapsam
 
@@ -29,7 +29,7 @@ Uygulamanın kullanılması için kullanıcı hesabı oluşturulması gerekmez. 
 
 **3.5. Ücretsiz kullanım sayacı ve satın alma durumu.** Ortak Hesaplar ve Masraf Fişleri için kaç ücretsiz hakkın kullanıldığını gösteren sayılar, kişi veya hesap bilgisi içermeksizin cihazda tutulur; Android'de Ortak Hesaplar sayacı, Uygulama yeniden kurulduğunda sıfırlanmaması amacıyla ayrıca Google Block Store hizmetinde saklanabilir. Pro/Plus sahipliği bilgisi ve son doğrulama zamanı yalnızca cihazda tutulur.
 
-**3.6. Masraf Fişleri.** Kullanıcı'nın Masraf Fişleri bölümüne kaydettiği fişler (tarih, işletme, tutar, KDV satırları, vergi numarası, şehir, belge türü, kategori, kişi sayısı ve not) ile fotoğrafları, Kullanıcı silene veya Uygulama cihazdan kaldırılana kadar cihazdaki uygulamaya özel alanda saklanır ve galeriye kaydedilmez. Fiş fotoğrafı, cihazın sistem belge tarayıcısıyla (iOS'ta Apple VisionKit, Android'de Google Play hizmetlerindeki Google ML Kit belge tarayıcısı) çekilir; tarayıcı fişin kenarlarını bulur ve görüntüyü düzeltir. Tarayıcı kullanılamazsa Uygulama'nın kendi kamera ekranı açılır. Fişten okunan bilgiler yalnızca öneridir; Kullanıcı kaydetmeden önce kontrol eder.
+**3.6. Masraf Fişleri.** Kullanıcı'nın Masraf Fişleri bölümüne kaydettiği fişler (tarih, işletme, tutar, KDV satırları, vergi numarası, şehir, belge türü, kategori, kişi sayısı ve not) ile fotoğrafları, Kullanıcı silene veya Uygulama cihazdan kaldırılana kadar cihazdaki uygulamaya özel alanda saklanır ve galeriye kaydedilmez. Fiş fotoğrafı, cihazın sistem belge tarayıcısıyla (iOS'ta Apple VisionKit, Android'de Google Play hizmetlerindeki Google ML Kit belge tarayıcısı) çekilir; tarayıcı fişin kenarlarını bulur ve görüntüyü düzeltir. Tarayıcı kullanılamazsa Uygulama'nın kendi kamera ekranı açılır. Fişten okunan bilgiler yalnızca öneridir; Kullanıcı kaydetmeden önce kontrol eder. Uygulama, aynı işletmenin sonraki fişinde doğru öneride bulunabilmek amacıyla, kaydedilen fişlerden işletme adı, vergi numarası, şehir, belge türü ve kategori bilgisini cihazda ayrıca tutar (en fazla 500 işletme; sınır aşılınca en eski kayıt silinir). Bu bilgi, bir fiş silindiğinde kendiliğinden silinmez; cihaz yedeğine (madde 3.3) girebilir, yedek dosyasına (madde 3.4) eklenmez, Uygulama'nın verileri temizlendiğinde veya Uygulama kaldırıldığında silinir ve Veri Sorumlusu'na iletilmez.
 
 **3.7. Raporlar ve şirket şablonları.** Excel, PDF ve ZIP raporları cihazda hazırlanır; cihazdan yalnızca Kullanıcı'nın paylaşım menüsünde seçtiği hedefe gönderilir ve Veri Sorumlusu'na iletilmez. Paylaşım için oluşturulan geçici kopyalar Uygulama'nın geçici alanından temizlenir. Kullanıcı'nın sistemin dosya seçicisiyle eklediği şirket Excel şablonunun bir kopyası, Kullanıcı silene veya Uygulama kaldırılana kadar cihazdaki uygulamaya özel alanda saklanır; şablon cihazda doldurulur ve Veri Sorumlusu'na iletilmez.
 
@@ -103,7 +103,7 @@ Berkco App Studio · berkcoappstudio@gmail.com · Destek: https://berkcoo.github
 
 # Hesap Ne Kadar — Privacy Policy and Notice
 
-_Effective and last updated: 11 November 2026_
+_Effective and last updated: 14 November 2026_
 
 ## 1. Controller and Scope
 
@@ -127,7 +127,7 @@ No user account is required. Receipt images, recognised text, account and people
 
 **3.5. Free-use counter and purchase status.** Numbers showing how many free uses of Shared Accounts and Expense receipts have been spent, with no personal or account information, are kept on the device; on Android the Shared Accounts number may also be kept in Google Block Store so that reinstalling does not reset it. The fact that the User owns Pro/Plus and when it was last confirmed are kept on the device only.
 
-**3.6. Expense receipts.** Receipts the User keeps in Expense receipts (date, merchant, amount, VAT lines, tax number, city, document type, category, number of people and note) and their photos are kept in the App's private area on the device until the User deletes them or removes the App, and are not saved to the gallery. The receipt photo is taken with the device's system document scanner (Apple VisionKit on iOS, the Google ML Kit document scanner in Google Play services on Android), which finds the receipt's edges and straightens the image. If the scanner is not available, the App's own camera screen opens. Details read from the receipt are suggestions only; the User checks them before saving.
+**3.6. Expense receipts.** Receipts the User keeps in Expense receipts (date, merchant, amount, VAT lines, tax number, city, document type, category, number of people and note) and their photos are kept in the App's private area on the device until the User deletes them or removes the App, and are not saved to the gallery. The receipt photo is taken with the device's system document scanner (Apple VisionKit on iOS, the Google ML Kit document scanner in Google Play services on Android), which finds the receipt's edges and straightens the image. If the scanner is not available, the App's own camera screen opens. Details read from the receipt are suggestions only; the User checks them before saving. To make the right suggestions on the next receipt from the same business, the App also keeps on the device the business name, tax number, city, document type and category taken from saved receipts (up to 500 businesses; beyond that the oldest entry is deleted). This information is not deleted automatically when a receipt is deleted; it may be included in device backups (Section 3.3), is not part of the backup file (Section 3.4), is deleted when the App's data is cleared or the App is removed, and is not sent to the Controller.
 
 **3.7. Reports and company templates.** Excel, PDF and ZIP reports are created on the device; they leave it only to the destination the User picks in the share menu and are not sent to the Controller. Temporary copies made for sharing are cleared from the App's temporary area. A copy of a company Excel template the User adds through the system file picker is kept in the App's private area on the device until the User deletes it or removes the App; the template is filled on the device and is not sent to the Controller.
 
