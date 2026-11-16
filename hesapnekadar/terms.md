@@ -55,9 +55,9 @@ Geliştirici, Uygulama'nın özelliklerini ve bu koşulları değiştirebilir; g
 
 Bu koşullara Türk hukuku uygulanır; bu seçim, Kullanıcı'nın yerleşik olduğu ülkenin emredici tüketici koruma hükümlerinin sağladığı korumayı ortadan kaldırmaz. Türkiye'deki tüketiciler, parasal sınırlar içinde yerleşim yerindeki veya işlemin yapıldığı yerdeki Tüketici Hakem Heyeti'ne, sınırların üstünde Tüketici Mahkemesi'ne başvurabilir; Tüketici Mahkemesi'nde dava açmadan önce arabulucuya başvurulması zorunludur (6502 sayılı Kanun m.73/A). Avrupa Ekonomik Alanı'nda, Birleşik Krallık'ta ve İsviçre'de yerleşik tüketiciler, kendi yerleşim yerlerindeki mahkemelerde de dava açabilir.
 
-## 10. İletişim
+## 10. Satıcı ve İletişim
 
-berkcoappstudio@gmail.com
+Berk Sönmez (bireysel geliştirici; "Berkco App Studio" marka adıdır, ticaret unvanı değildir) · Vergi kimlik no: 7780641264, Sarıgazi Vergi Dairesi · Adres: Ekşioğlu Mah. 63. Sk., Çekmeköy / İstanbul, Türkiye · E-posta: berkcoappstudio@gmail.com (cayma, iade ve şikâyet bildirimleri dahil). Tebligata elverişli tam adres, resmî bildirimler ve hukuki yazışmalar için e-postayla talep edildiğinde bildirilir.
 
 ---
 
@@ -113,6 +113,6 @@ The Developer may change the App's features and these terms; the current terms a
 
 Turkish law applies to these terms; this choice does not deprive the User of the protection of the mandatory consumer-protection rules of their country of residence. Consumers in Türkiye may apply, within the monetary limits, to the Consumer Arbitration Committee at their place of residence or of the transaction, and above those limits to the Consumer Court; mediation is mandatory before filing a case at the Consumer Court (Law No. 6502 Art. 73/A). Consumers resident in the European Economic Area, the United Kingdom or Switzerland may also bring proceedings in the courts of their place of residence.
 
-## 10. Contact
+## 10. Seller and Contact
 
-berkcoappstudio@gmail.com
+Berk Sönmez (individual developer; "Berkco App Studio" is a brand name, not a trade name) · Tax ID: 7780641264, Sarıgazi Tax Office · Address: Ekşioğlu Mah. 63. Sk., Çekmeköy / İstanbul, Türkiye · Email: berkcoappstudio@gmail.com (including withdrawal, refund and complaint notices). The full postal address for service of documents is provided by email on request for official notices and legal correspondence.

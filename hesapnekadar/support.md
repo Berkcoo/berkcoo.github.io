@@ -11,6 +11,8 @@ Fişi okut, herkes kendi payını seçsin. Hesap Ne Kadar, Berkco App Studio tar
 
 E-posta: **berkcoappstudio@gmail.com**
 
+Satıcı: Berk Sönmez · VKN 7780641264 (Sarıgazi VD) · Ekşioğlu Mah. 63. Sk., Çekmeköy / İstanbul. Tam adres e-postayla istendiğinde bildirilir.
+
 Sorun bildirirken cihaz modelini, işletim sistemi sürümünü, uygulama sürümünü (Ayarlar > Hakkında) ve ne olduğunu yazın; ekran görüntüsü yardımcı olur.
 
 ## Sık sorulanlar
@@ -50,6 +52,8 @@ Scan the receipt, everyone picks what they had. Hesap Ne Kadar is developed by B
 ## Contact us
 
 Email: **berkcoappstudio@gmail.com**
+
+Seller: Berk Sönmez · Tax ID 7780641264 (Sarıgazi Tax Office) · Ekşioğlu Mah. 63. Sk., Çekmeköy / İstanbul, Türkiye. Full address by email on request.
 
 When you report a problem, include your device model, operating system version, the app version (Settings > About) and what happened; a screenshot helps.
 
